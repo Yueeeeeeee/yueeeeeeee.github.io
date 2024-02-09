@@ -14,7 +14,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 - **[Oct. 2023]** Our LRURec is accepted to WSDM '24, check out our preprint & code now!
 - **[Sep. 2023]** One PGAI '23 workshop paper on LLM for recommendation accepted!
 - **[Aug. 2023]** One CIKM '23 paper on poisoning uncertainty estimation accepted!
-- **[Amy. 2023]** Two ACL '23 papers accepted, stay tuned for our preprint & code!
+- **[May. 2023]** Two ACL '23 papers accepted, stay tuned for our preprint & code!
 - **[Mar. 2023]** I just reached the 100 citation milestone on Google Scholar!
 - **[Dec. 2022]** I will be joining NVIDIA for LLM x RecSys research in summer 2023!
 - **[Oct. 2022]** One EMNLP '22 full paper on domain adaptive question answering accepted!
@@ -78,7 +78,7 @@ Full publication list can be found on my google scholar page.
 ## Miscellaneous
 
 **Teaching**: IS203 Discrete Math, IS206 Database, IS327 Machine Learning, IS496 Computer Networks \
-**Service**: ACL Rolling Review 2023 - 2024 (ACL, EMNLP, NAACL etc.), AAAI 2023 - 2024, WWW 2024, PGAI@CIKM 2023, ASONAM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TKDD, IEEE Smart Grid. \
+**Service**: ACL Rolling Review 2023 - 2024 (ACL, EMNLP, NAACL etc.), AAAI 2023 - 2024, TheWebConf 2024, PGAI@CIKM 2023, ASONAM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TKDD, ACM TIST, IEEE TBD, IEEE SmartGrid. \
 **Languages**: Chinese, Cantonese, English, German and a bit Spanish. \
 More will be added here when have time :)
 
