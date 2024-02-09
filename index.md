@@ -16,7 +16,6 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 - **[Aug. 2023]** One CIKM '23 paper on poisoning uncertainty estimation accepted!
 - **[Amy. 2023]** Two ACL '23 papers accepted, stay tuned for our preprint & code!
 - **[Mar. 2023]** I just reached the 100 citation milestone on Google Scholar!
-
 - **[Dec. 2022]** I will be joining NVIDIA for LLM x RecSys research in summer 2023!
 - **[Oct. 2022]** One EMNLP '22 full paper on domain adaptive question answering accepted!
 - **[Aug. 2022]** I got the RecSys student travel award and SIGIR student travel grant for CIKM!
@@ -45,10 +44,6 @@ Huimin Zeng, **Zhenrui Yue**, Yang Zhang, Lanyu Shang, Dong Wang \
 **Zero- and Few-Shot Event Detection via Prompt-Based Meta Learning** \
 **Zhenrui Yue**, Huimin Zeng, Mengfei Lan, Heng Ji, Dong Wang \
 *ACL 2023* [[Paper](https://arxiv.org/abs/2305.17373)] [[Code](https://github.com/Yueeeeeeee/MetaEvent)]
-
-<!-- **QA Domain Adaptation using Hidden Space Augmentation and Self-Supervised Contrastive Adaptation** \
-**Zhenrui Yue\***, Huimin Zeng\*, Bernhard Kratzwald, Stefan Feuerriegel, Dong Wang \
-*EMNLP 2022* [[Paper](https://arxiv.org/abs/2210.10861)] [[Code](https://github.com/Yueeeeeeee/Self-Supervised-QA)] -->
 
 **Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
@@ -79,6 +74,15 @@ Huimin Zeng, **Zhenrui Yue**, Yang Zhang, Ziyi Kou, Lanyu Shang, Dong Wang \
 *NILM@SenSys 2020* [[Paper](http://nilmworkshop.org/2020/proceedings/nilm20-final88.pdf)] [[Code](https://github.com/Yueeeeeeee/BERT4NILM)]
 
 Full publication list can be found in my google scholar page.
+
+## Miscellaneous
+
+Teaching: IS203 Discrete Math, IS206 Intro to Database, IS327 Concepts of Machine Learning, IS 496 Computer Networks \
+Service: ACL Rolling Review 2023 - 2024, AAAI 2023 - 2024, WWW 2024, PGAI@CIKM 2023, ASONAM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TKDD, IEEE Smart Grid. \
+Languages: Chinese, Cantonese, English, German and a bit Spanish. \
+More will be added here when have time :)
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ku2rtr90ox&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
 
 
 <!-- {% include_relative _includes/publications.md %}
