@@ -73,18 +73,13 @@ Huimin Zeng, **Zhenrui Yue**, Yang Zhang, Ziyi Kou, Lanyu Shang, Dong Wang \
 **Zhenrui Yue**, Camilo Requena Witzig, Daniel Jorde, Hans-Arno Jacobsen \
 *NILM@SenSys 2020* [[Paper](http://nilmworkshop.org/2020/proceedings/nilm20-final88.pdf)] [[Code](https://github.com/Yueeeeeeee/BERT4NILM)]
 
-Full publication list can be found in my google scholar page.
+Full publication list can be found on my google scholar page.
 
 ## Miscellaneous
 
-Teaching: IS203 Discrete Math, IS206 Intro to Database, IS327 Concepts of Machine Learning, IS 496 Computer Networks \
-Service: ACL Rolling Review 2023 - 2024, AAAI 2023 - 2024, WWW 2024, PGAI@CIKM 2023, ASONAM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TKDD, IEEE Smart Grid. \
-Languages: Chinese, Cantonese, English, German and a bit Spanish. \
+**Teaching**: IS203 Discrete Math, IS206 Database, IS327 Machine Learning, IS496 Computer Networks \
+**Service**: ACL Rolling Review 2023 - 2024 (ACL, EMNLP, NAACL etc.), AAAI 2023 - 2024, WWW 2024, PGAI@CIKM 2023, ASONAM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TKDD, IEEE Smart Grid. \
+**Languages**: Chinese, Cantonese, English, German and a bit Spanish. \
 More will be added here when have time :)
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ku2rtr90ox&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
-
-
-<!-- {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %} -->
