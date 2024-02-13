@@ -4,24 +4,23 @@ layout: homepage
 
 ## About Me
 
-Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candidate in Cognitive Science & Language Processing at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with B.S. and M.S. degree from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems, and information retrieval. I am particularly interested in building efficient and reliable large language models (LLMs) and large multimodal models (LMMs), with real-world applications such as conversational AI and multimodal recommendation.
+Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candidate in Informatics: Cognitive Science & Language Processing at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems, and information retrieval. I am particularly interested in building efficient and reliable large language models (LLMs) and large multimodal models (LMMs), with real-world applications such as recommendation, question answering and fact verification.
 
 ## News
 
 - **[Feb. 2024]** I will join Google for retrieval augmented generation research in summer 2024!
-- **[Dec. 2023]** Just reached 200 citations on Google Scholar!
-- **[Nov. 2023]** Passed my qualifying exam and advenced to Ph.D. candidacy at UIUC!
+- **[Dec. 2023]** Just reached 200 citations on Google Scholar:)
 - **[Oct. 2023]** Our LRURec is accepted to WSDM '24, check out our preprint & code now!
-- **[Sep. 2023]** One PGAI '23 workshop paper on LLM for recommendation accepted!
-- **[Aug. 2023]** One CIKM '23 paper on poisoning uncertainty estimation accepted!
+- **[Sep. 2023]** One PGAI '23 workshop paper on LLM for recommendation accepted.
+- **[Aug. 2023]** One CIKM '23 paper on poisoning uncertainty estimation accepted.
 - **[May. 2023]** Two ACL '23 papers accepted, stay tuned for our preprint & code!
-- **[Mar. 2023]** I just reached the 100 citation milestone on Google Scholar!
+- **[Mar. 2023]** I just reached the 100 citation milestone on Google Scholar:)
 - **[Dec. 2022]** I will be joining NVIDIA for LLM x RecSys research in summer 2023!
 - **[Oct. 2022]** One EMNLP '22 full paper on domain adaptive question answering accepted!
 - **[Aug. 2022]** I got the RecSys student travel award and SIGIR student travel grant for CIKM!
-- **[Aug. 2022]** One COLING '22 full paper on QA and question classification accepted.
+- **[Aug. 2022]** One COLING '22 full paper on QA and question classification accepted!
 - **[Aug. 2022]** One CIKM '22 full paper on misinformation detection accepted!
-- **[Jun. 2022]** One RecSys '22 full paper on adversarial recommender systems accepted.
+- **[Jun. 2022]** One RecSys '22 full paper on adversarial recommender systems accepted!
 
 ## Selected Publications
 
@@ -81,7 +80,7 @@ Full publication list can be found on my google scholar page.
 
 **Teaching**: IS203 Discrete Math, IS206 Database, IS327 Machine Learning, IS496 Computer Networks
 
-**Service**: ACL Rolling Review 2023 - 2024 (ACL, EMNLP, NAACL etc.), AAAI 2023 - 2024, TheWebConf 2024, PGAI@CIKM 2023, ASONAM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TKDD, ACM TIST, IEEE TBD, IEEE SmartGrid.
+**Service**: ACL Rolling Review 2023 - 2024 (ACL, EMNLP, NAACL etc.), AAAI 2023 - 2024, TheWebConf 2024, PGAI@CIKM 2023, ASONAM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TIST, ACM TKDD, IEEE SmartGrid, IEEE TBD.
 
 More will be added when I have time :)
 
