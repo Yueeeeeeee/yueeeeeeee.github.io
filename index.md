@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candidate in Informatics: Cognitive Science & Language Processing at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems, and information retrieval. I am particularly interested in building efficient and reliable large language models (LLMs) and large multimodal models (LMMs), with real-world applications such as recommendation, question answering and fact verification.
+Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candidate in Cognitive Science & Language Processing at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems, and information retrieval. I am particularly interested in building efficient and reliable large language models (LLMs) and large multimodal models (LMMs), with real-world applications such as recommendation, question answering and fact verification.
 
 ## News
 
