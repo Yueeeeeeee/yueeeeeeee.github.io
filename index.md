@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candidate in Cognitive Science & Language Processing at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems and information retrieval. I am particularly interested in building efficient and reliable large language models (LLMs) and large multimodal models (LMMs), with real-world applications such as conversation and recommendation.
+Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candidate in Cognitive Science & Language Processing at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://wangdong.org/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems and information retrieval. I am particularly interested in building efficient and reliable large language models (LLMs) and large multimodal models (LMMs), with real-world applications such as conversation and recommendation.
 
 ## News
 
-- **[Feb. 2024]** I will join Google for retrieval augmented generation research in summer 2024!
+- **[Feb. 2024]** I will join Google to research on retrieval augmented generation summer 2024!
 - **[Dec. 2023]** Just reached 200 citations on Google Scholar:)
 - **[Oct. 2023]** Our LRURec is accepted to WSDM '24, check out our preprint & code now!
 - **[Sep. 2023]** One PGAI '23 workshop paper on LLM for recommendation accepted.
