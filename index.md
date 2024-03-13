@@ -8,6 +8,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 
 ## News
 
+- **[Mar. 2024]** Two NAACL '24 papers accepted, stay tuned for our preprint & code!
 - **[Feb. 2024]** I will join Google to research on retrieval augmented generation summer 2024!
 - **[Dec. 2023]** Just reached 200 citations on Google Scholar:)
 - **[Oct. 2023]** Our LRURec is accepted to WSDM '24, check out our preprint & code now!
