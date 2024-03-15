@@ -18,10 +18,6 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 - **[Mar. 2023]** I just reached the 100 citation milestone on Google Scholar:)
 - **[Dec. 2022]** I will be joining NVIDIA for LLM x RecSys research in summer 2023!
 - **[Oct. 2022]** One EMNLP '22 full paper on domain adaptive question answering accepted!
-<!-- - **[Aug. 2022]** I got the RecSys student travel award and SIGIR student travel grant for CIKM!
-- **[Aug. 2022]** One COLING '22 full paper on QA and question classification accepted!
-- **[Aug. 2022]** One CIKM '22 full paper on misinformation detection accepted!
-- **[Jun. 2022]** One RecSys '22 full paper on adversarial recommender systems accepted! -->
 
 ## Selected Publications
 
