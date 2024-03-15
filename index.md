@@ -25,6 +25,14 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 
 ## Selected Publications
 
+**Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation** \
+**Zhenrui Yue**, Huimin Zeng, Yimeng Lu, Lanyu Shang, Yang Zhang, Dong Wang \
+*NAACL 2024*
+
+**Open-Vocabulary Federated Learning with Multimodal Prototyping** \
+Huimin Zeng, **Zhenrui Yue**, Dong Wang \
+*NAACL 2024*
+
 **Linear Recurrent Units for Sequential Recommendation** \
 **Zhenrui Yue\***, Yueqi Wang\*, Zhankui He, Huimin Zeng, Julian McAuley, Dong Wang \
 *WSDM 2024* [[Paper](https://arxiv.org/abs/2310.02367)] [[Code](https://github.com/yueqirex/LRURec)]
