@@ -85,7 +85,7 @@ Full publication list can be found on my google scholar page.
 
 **Teaching**: IS203 Discrete Math, IS206 Database, IS327 Machine Learning, IS496 Computer Networks
 
-**Service**: ACL Rolling Review 2023 - 2024 (ACL, EMNLP, NAACL etc.), AAAI 2023 - 2024, TheWebConf 2024, PGAI@CIKM 2023, ASONAM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TIST, ACM TKDD, IEEE SmartGrid, IEEE TBD.
+**Service**: AAAI 2023 - 2024, ARR 2023 - 2024 (ACL, EMNLP, NAACL etc.), ASONAM 2023 - 2024, TheWebConf 2024, PGAI@CIKM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TIST, ACM TKDD, IEEE SmartGrid, IEEE TBD.
 
 More will be added when I have time :)
 
