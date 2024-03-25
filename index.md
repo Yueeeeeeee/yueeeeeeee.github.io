@@ -8,6 +8,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 
 ## News
 
+- **[Apr. 2024]** One SIGIR '24 paper on fair sequential recommendation accepted!
 - **[Mar. 2024]** Two NAACL '24 papers accepted, stay tuned for our preprint & code!
 - **[Feb. 2024]** I will join Google to research on retrieval augmented generation summer 2024!
 - **[Dec. 2023]** Just reached 200 citations on Google Scholar:)
@@ -21,13 +22,13 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 
 ## Selected Publications
 
-**Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation** \
-**Zhenrui Yue**, Huimin Zeng, Yimeng Lu, Lanyu Shang, Yang Zhang, Dong Wang \
-*NAACL 2024*
-
 **Open-Vocabulary Federated Learning with Multimodal Prototyping** \
 Huimin Zeng, **Zhenrui Yue**, Dong Wang \
 *NAACL 2024*
+
+**Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation** \
+**Zhenrui Yue**, Huimin Zeng, Yimeng Lu, Lanyu Shang, Yang Zhang, Dong Wang \
+*NAACL 2024* [[Paper](https://arxiv.org/abs/2403.14952)]
 
 **Linear Recurrent Units for Sequential Recommendation** \
 **Zhenrui Yue\***, Yueqi Wang\*, Zhankui He, Huimin Zeng, Julian McAuley, Dong Wang \
