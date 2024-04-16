@@ -28,7 +28,8 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 
 **Open-Vocabulary Federated Learning with Multimodal Prototyping** \
 Huimin Zeng, **Zhenrui Yue**, Dong Wang \
-*NAACL 2024* [[Paper](https://arxiv.org/abs/2404.01232)]
+*NAACL 2024* [[Paper](https://arxiv.org/abs/2404.01232)] [[Code](https://github.com/huiminzeng/Fed-MP)]
+
 
 **Linear Recurrent Units for Sequential Recommendation** \
 **Zhenrui Yue\***, Yueqi Wang\*, Zhankui He, Huimin Zeng, Julian McAuley, Dong Wang \
