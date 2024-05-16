@@ -8,6 +8,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 
 ## News
 
+- **[May. 2024]** Two papers (1 main & 1 findings) accepted to ACL 2024, stay tuned for our preprint!
 - **[Apr. 2024]** One SIGIR '24 paper on fair sequential recommendation accepted!
 - **[Mar. 2024]** Two NAACL '24 papers accepted, stay tuned for our preprint & code!
 - **[Feb. 2024]** I will join Google to research on retrieval augmented generation summer 2024!
@@ -22,14 +23,13 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 
 ## Selected Publications
 
-**Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation** \
-**Zhenrui Yue**, Huimin Zeng, Yimeng Lu, Lanyu Shang, Yang Zhang, Dong Wang \
-*NAACL 2024* [[Paper](https://arxiv.org/abs/2403.14952)]
+**Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments** \
+**Zhenrui Yue**, Huimin Zeng, Lanyu Shang, Yifan Liu, Yang Zhang, Dong Wang \
+*ACL 2024* [Preprint and Code Coming Soon!]
 
 **Open-Vocabulary Federated Learning with Multimodal Prototyping** \
 Huimin Zeng, **Zhenrui Yue**, Dong Wang \
 *NAACL 2024* [[Paper](https://arxiv.org/abs/2404.01232)] [[Code](https://github.com/huiminzeng/Fed-MP)]
-
 
 **Linear Recurrent Units for Sequential Recommendation** \
 **Zhenrui Yue\***, Yueqi Wang\*, Zhankui He, Huimin Zeng, Julian McAuley, Dong Wang \
@@ -38,10 +38,6 @@ Huimin Zeng, **Zhenrui Yue**, Dong Wang \
 **LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking** \
 **Zhenrui Yue**, Sara Rabhi, Gabriel Moreira, Dong Wang, Even Oldridge \
 *PGAI@CIKM 2023* [[Paper](https://arxiv.org/abs/2311.02089)] [[Code](https://github.com/Yueeeeeeee/LlamaRec)]
-
-**Manipulating Out-Domain Uncertainty Estimation in Deep Neural Networks via Targeted Clean-Label Poisoning** \
-Huimin Zeng, **Zhenrui Yue**, Yang Zhang, Lanyu Shang, Dong Wang \
-*CIKM 2023* [[Paper](https://dl.acm.org/doi/10.1145/3583780.3614957)]
 
 **MetaAdapt: Domain Adaptive Few-Shot Misinformation Detection via Meta Learning** \
 **Zhenrui Yue**, Huimin Zeng, Yang Zhang, Lanyu Shang, Dong Wang \
@@ -59,10 +55,6 @@ Huimin Zeng, **Zhenrui Yue**, Yang Zhang, Lanyu Shang, Dong Wang \
 Huimin Zeng, **Zhenrui Yue**, Yang Zhang, Ziyi Kou, Lanyu Shang, Dong Wang \
 *IJCAI 2022* [[Paper](https://arxiv.org/abs/2210.02191)]
 
-**Domain Adaptation for Question Answering via Question Classification** \
-**Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-*COLING 2022* [[Paper](https://arxiv.org/abs/2209.04998)] [[Code](https://github.com/Yueeeeeeee/Self-Supervised-QA)]
-
 **Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
 *RecSys 2022* [[Paper](https://arxiv.org/abs/2207.11237)] [[Code](https://github.com/Yueeeeeeee/RecSys-Substitution-Defense)]
@@ -74,10 +66,6 @@ Huimin Zeng, **Zhenrui Yue**, Yang Zhang, Ziyi Kou, Lanyu Shang, Dong Wang \
 **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction** \
 **Zhenrui Yue\***, Zhankui He\*, Huimin Zeng, Julian McAuley \
 *RecSys 2021* [[Paper](https://arxiv.org/abs/2109.01165)] [[Code](https://github.com/Yueeeeeeee/RecSys-Extraction-Attack)]
-
-**BERT4NILM: A Bidirectional Transformer Model for Non-Intrusive Load Monitoring** \
-**Zhenrui Yue**, Camilo Requena Witzig, Daniel Jorde, Hans-Arno Jacobsen \
-*NILM@SenSys 2020* [[Paper](http://nilmworkshop.org/2020/proceedings/nilm20-final88.pdf)] [[Code](https://github.com/Yueeeeeeee/BERT4NILM)]
 
 Full publication list can be found on my google scholar page.
 
