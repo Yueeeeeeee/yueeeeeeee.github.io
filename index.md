@@ -8,6 +8,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 
 ## News
 
+- **[Jul. 2024]** Gave a talk at UBER on efficient sequential recommendation & LRURec!
 - **[May. 2024]** Two papers (1 main & 1 findings) accepted to ACL 2024, stay tuned for our preprint!
 - **[Apr. 2024]** One SIGIR '24 paper on fair sequential recommendation accepted!
 - **[Mar. 2024]** Two NAACL '24 papers accepted, stay tuned for our preprint & code!
@@ -25,7 +26,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 
 **Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments** \
 **Zhenrui Yue**, Huimin Zeng, Lanyu Shang, Yifan Liu, Yang Zhang, Dong Wang \
-*ACL 2024* [Preprint and Code Coming Soon!]
+*ACL 2024* [[Paper](https://arxiv.org/abs/2406.09815)] [[Code](https://github.com/yueeeeeeee/RAFTS)]
 
 **Open-Vocabulary Federated Learning with Multimodal Prototyping** \
 Huimin Zeng, **Zhenrui Yue**, Dong Wang \
@@ -75,7 +76,7 @@ Full publication list can be found on my google scholar page.
 
 **Teaching**: IS203 Discrete Math, IS206 Database, IS327 Machine Learning, IS496 Computer Networks.
 
-**Service**: AAAI 2023 - 2024, ARR 2023 - 2024 (ACL, EMNLP, NAACL etc.), ASONAM 2023 - 2024, TheWebConf 2024, PGAI@CIKM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TIST, ACM TKDD, IEEE SmartGrid, IEEE TBD, Springer SNAM.
+**Service**: AAAI 2023 - 2025, ARR 2023 - 2025 (ACL, EMNLP, NAACL etc.), ASONAM 2023 - 2024, TheWebConf 2024, PGAI@CIKM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TIST, ACM TKDD, IEEE SmartGrid, IEEE TBD, Springer SNAM.
 
 More will be added when I have time :)
 
