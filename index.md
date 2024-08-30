@@ -26,8 +26,9 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 <table style="width: 100%;">
     <tr style="border: none;">
         <td style="width: 70%; text-align: left; border: none;">
-            <br/><b>Google DeepMind, Mountain View, CA</b><br/>
+            <b>Google DeepMind</b>&emsp;@Mountain View, CA<br/>
             <i>Student Researcher &bull; May 2024 - Present</i><br/>
+            May 2024 - Present
         </td>
         <td style="width: 30%; text-align: right; border: none;">
             <img src="assets/img/gdm_logo.svg" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
