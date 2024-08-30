@@ -25,14 +25,22 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## Experience
 
-**University of Illinois Urbana-Champaign**&nbsp&nbsp&nbsp&nbspChampaign, IL \
-*Research / Teaching Assistant*&nbsp&nbsp&nbsp&nbspAug 2021 - Present
+<tr>
+    <td width="80%">
+        <br/><b>Google DeepMind, Mountain View, CA</b><br/>
+        <b>Student Researcher &bull; May 2024 - Present</b><br/>
+    </td>
+    <td width="20%">
+        <img src="assets/img/gdm_logo.png" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
+    </td>
+</tr>
 
-**Google Deepmind**&nbsp&nbsp&nbsp&nbspMountain View, CA \
-*Student Researcher*&nbsp&nbsp&nbsp&nbspMay 2024 - Present
 
-**NVIDIA**&nbsp&nbsp&nbsp&nbspRemote from IL \
-*Research Intern*&nbsp&nbsp&nbsp&nbspMay 2023 - Aug 2023
+**Google Deepmind** Mountain View, CA \
+*Student Researcher*
+
+**NVIDIA** Remote from IL \
+*Research Intern*
 
 ## Selected Publications
 
