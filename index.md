@@ -25,11 +25,11 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## Experience
 
-**Google Deepmind**, Mountain View, CA
-*Student Researcher*
+**Google Deepmind**, Mountain View, CA \
+*Student Researcher*, May 2024 - Present
 
-**NVIDIA**, Mountain View, CA
-*Research Intern*
+**NVIDIA**, Remote from IL \
+*Research Intern*, May 2023 - Aug 2023
 
 ## Selected Publications
 
