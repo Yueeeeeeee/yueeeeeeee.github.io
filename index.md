@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candidate in Cognitive Science & Language Processing at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://wangdong.org/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems and information retrieval. I am particularly interested in building efficient and reliable large language models (LLMs) and large multimodal models (LMMs), with real-world applications such as conversation and recommendation.
+Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candidate in Cognitive Science & Language Processing with [Dr. Wang](https://wangdong.org/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems and information retrieval. I am particularly interested in building efficient and reliable large language models (LLMs) and large multimodal models (LMMs), with real-world applications such as conversation and recommendation.
 
 ## News
 
@@ -20,8 +20,16 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 3rd year Ph.D. candida
 - **[Aug. 2023]** One CIKM '23 paper on poisoning uncertainty estimation accepted.
 - **[May. 2023]** Two ACL '23 papers accepted, stay tuned for our preprint & code!
 - **[Mar. 2023]** I just reached the 100 citation milestone on Google Scholar:)
-- **[Dec. 2022]** I will be joining NVIDIA for LLM x RecSys research in summer 2023!
-- **[Oct. 2022]** One EMNLP '22 full paper on domain adaptive question answering accepted!
+<!-- - **[Dec. 2022]** I will be joining NVIDIA for LLM x RecSys research in summer 2023!
+- **[Oct. 2022]** One EMNLP '22 full paper on domain adaptive question answering accepted! -->
+
+## Experience
+
+**Google Deepmind**, Mountain View, CA
+*Student Researcher*
+
+**NVIDIA**, Mountain View, CA
+*Research Intern*
 
 ## Selected Publications
 
