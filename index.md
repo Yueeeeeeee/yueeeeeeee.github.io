@@ -22,8 +22,9 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 - **[Mar. 2023]** I just reached the 100 citation milestone on Google Scholar:)
 
 ## Experience
+
 <html>
-<table style="width: 100%; border: none; margin: 0; padding: 0; border-spacing: 0;">
+<table style="width: 100%; border-collapse: collapse; margin: 0; padding: 0;" border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td style="width: 75%; text-align: left;">
             <b>Google DeepMind</b>&emsp;@Mountain View, CA<br/>
@@ -36,7 +37,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
     </tr>
 </table>
 
-<table style="width: 100%; border: none; margin: 0; padding: 0; border-spacing: 0;">
+<table style="width: 100%; border-collapse: collapse; margin: 0; padding: 0;" border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td style="width: 75%; text-align: left;">
             <b>NVIDIA AI</b>&emsp;@Remote, IL<br/>
