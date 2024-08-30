@@ -23,8 +23,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## Experience
 
-<html>
-<table style="width: 100%; border: none;">
+<table style="width: 100%; border-bottom: none;">
     <tr>
         <td style="width: 75%; text-align: left;">
             <b>Google DeepMind</b>&emsp;@Mountain View, CA<br/>
@@ -37,7 +36,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
     </tr>
 </table>
 
-<table style="width: 100%; border: none;">
+<table style="width: 100%; border-bottom: none;">
     <tr>
         <td style="width: 75%; text-align: left;">
             <b>NVIDIA AI</b>&emsp;@Remote, IL<br/>
@@ -49,7 +48,6 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
         </td>
     </tr>
 </table>
-</html>
 
 ## Selected Publications
 
