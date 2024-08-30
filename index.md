@@ -20,8 +20,6 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 - **[Aug. 2023]** One CIKM '23 paper on poisoning uncertainty estimation accepted.
 - **[May. 2023]** Two ACL '23 papers accepted, stay tuned for our preprint & code!
 - **[Mar. 2023]** I just reached the 100 citation milestone on Google Scholar:)
-<!-- - **[Dec. 2022]** I will be joining NVIDIA for LLM x RecSys research in summer 2023!
-- **[Oct. 2022]** One EMNLP '22 full paper on domain adaptive question answering accepted! -->
 
 ## Experience
 <html>
