@@ -24,7 +24,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 ## Experience
 
 <html>
-<table style="width: 100%; border-collapse: collapse; margin: 0; padding: 0;" border="0" cellspacing="0" cellpadding="0">
+<table style="width: 100%; border: none;">
     <tr>
         <td style="width: 75%; text-align: left;">
             <b>Google DeepMind</b>&emsp;@Mountain View, CA<br/>
@@ -37,7 +37,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
     </tr>
 </table>
 
-<table style="width: 100%; border-collapse: collapse; margin: 0; padding: 0;" border="0" cellspacing="0" cellpadding="0">
+<table style="width: 100%; border: none;">
     <tr>
         <td style="width: 75%; text-align: left;">
             <b>NVIDIA AI</b>&emsp;@Remote, IL<br/>
@@ -105,7 +105,9 @@ Full publication list can be found on my google scholar page.
 
 **Teaching**: IS203 Discrete Math, IS206 Database, IS327 Machine Learning, IS496 Computer Networks.
 
-**Service**: AAAI 2023 - 2025, ARR 2023 - 2025 (ACL, EMNLP, NAACL etc.), WWW 2024 - 2025, ASONAM 2023 - 2024, PGAI@CIKM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TIST, ACM TKDD, IEEE SmartGrid, IEEE TBD, Springer SNAM.
+**Service**: AAAI 2023 - 2025, ARR 2023 - 2025 (ACL, EMNLP, NAACL etc.), WWW 2024 - 2025, ICLR 2025, ASONAM 2023 - 2024, COLING 2022, ACM TIST, ACM TKDD, IEEE TBD etc.
+
+<!-- **Service**: AAAI 2023 - 2025, ARR 2023 - 2025 (ACL, EMNLP, NAACL etc.), WWW 2024 - 2025, ASONAM 2023 - 2024, PGAI@CIKM 2023, KnowledgeNLP@AAAI 2023, COLING 2022, ACM TIST, ACM TKDD, IEEE SmartGrid, IEEE TBD, Springer SNAM. -->
 
 More will be added when I have time :)
 
