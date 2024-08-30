@@ -25,22 +25,31 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## Experience
 
-<tr>
-    <td width="80%">
-        <br/><b>Google DeepMind, Mountain View, CA</b><br/>
-        <b>Student Researcher &bull; May 2024 - Present</b><br/>
-    </td>
-    <td width="20%">
-        <img src="assets/img/gdm_logo.png" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
-    </td>
-</tr>
+<table style="width: 100%;">
+    <tr>
+        <td style="width: 75%; text-align: left;">
+            <b>Google DeepMind</b>&emsp;@Mountain View, CA<br/>
+            <i>Student Researcher</i><br/>
+            May 2024 - Present
+        </td>
+        <td style="width: 25%; text-align: right;">
+            <img src="assets/img/gdm_logo.svg" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
+        </td>
+    </tr>
+</table>
 
-
-**Google Deepmind** Mountain View, CA \
-*Student Researcher*
-
-**NVIDIA** Remote from IL \
-*Research Intern*
+<table style="width: 100%;">
+    <tr>
+        <td style="width: 75%; text-align: left;">
+            <b>NVIDIA AI</b>&emsp;@Remote, IL<br/>
+            <i>Research Intern</i><br/>
+            May 2023 - Aug 2023
+        </td>
+        <td style="width: 25%; text-align: right;">
+            <img src="assets/img/nvidia_logo.svg" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
+        </td>
+    </tr>
+</table>
 
 ## Selected Publications
 
