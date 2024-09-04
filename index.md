@@ -25,15 +25,15 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 <table style="width: 100%;">
     <tr style="border: none;">
-        <td style="width: 50%; text-align: left; border: none;">
+        <td style="width: 40%; text-align: left; border: none;">
             <b>Google DeepMind</b><br/>
             <i>Student Researcher</i><br/>
         </td>
-        <td style="width: 25%; text-align: left; border: none;">
+        <td style="width: 30%; text-align: left; border: none;">
             Mountain View, CA<br/>
             May 2024 - Present<br/>
         </td>
-        <td style="width: 25%; text-align: right; border: none;">
+        <td style="width: 30%; text-align: right; border: none;">
             <img src="assets/img/gdm_logo.svg" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
         </td>
     </tr>
@@ -41,15 +41,15 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 <table style="width: 100%;">
     <tr style="border: none;">
-        <td style="width: 50%; text-align: left; border: none;">
+        <td style="width: 40%; text-align: left; border: none;">
             <b>NVIDIA AI</b><br/>
             <i>Research Intern</i><br/>
         </td>
-        <td style="width: 25%; text-align: left; border: none;">
+        <td style="width: 30%; text-align: left; border: none;">
             Remote, IL<br/>
             May 2023 - Aug 2023<br/>
         </td>
-        <td style="width: 25%; text-align: right; border: none;">
+        <td style="width: 30%; text-align: right; border: none;">
             <img src="assets/img/nvidia_logo.svg" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
         </td>
     </tr>
@@ -91,7 +91,7 @@ Huimin Zeng, **Zhenrui Yue**, Dong Wang \
 
 &emsp;**Languages**: Chinese, Cantonese, English, German and a bit Spanish.
 
-&emsp;**Service**: AAAI, ARR (ACL, EMNLP, NAACL), COLING, WWW, ICLR, etc.
+&emsp;**Service**: AAAI, ARR (ACL, EMNLP, NAACL), COLING, ICLR, WWW, etc.
 
 &emsp;**Teaching**: IS203 Discrete Math, IS206 Database, IS327 Machine Learning, IS496 Computer Networks.
 
