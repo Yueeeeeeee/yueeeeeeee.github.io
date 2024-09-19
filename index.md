@@ -8,6 +8,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## News
 
+- **[Sep. 2024]** We have a findings paper at EMNLP 2024:)
 - **[Aug. 2024]** Gave a talk at LinkedIn on LLM / LMM for efficient recommendation.
 - **[Jul. 2024]** Gave a talk at UBER on efficient sequential recommendation & LRURec.
 - **[May. 2024]** Two papers (1 main & 1 findings) accepted to ACL 2024, stay tuned for our preprint!
@@ -19,7 +20,6 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 - **[Sep. 2023]** One PGAI '23 workshop paper on LLM for recommendation accepted.
 - **[Aug. 2023]** One CIKM '23 paper on poisoning uncertainty estimation accepted.
 - **[May. 2023]** Two ACL '23 papers accepted, stay tuned for our preprint & code!
-- **[Mar. 2023]** I just reached the 100 citation milestone on Google Scholar:)
 
 ## Experience
 
