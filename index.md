@@ -8,6 +8,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## News
 
+- **[Oct. 2024]** Check out our paper on inference scaling for long-context RAG!
 - **[Sep. 2024]** We have a findings paper at EMNLP 2024:)
 - **[Aug. 2024]** Gave a talk at LinkedIn on LLM / LMM for efficient recommendation.
 - **[Jul. 2024]** Gave a talk at UBER on efficient sequential recommendation & LRURec.
@@ -57,13 +58,17 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## Selected Publications
 
+- **Inference Scaling for Long-Context Retrieval Augmented Generation** \
+**Zhenrui Yue\***, Honglei Zhuang\*, Aijun Bai, Kai Hui, Rolf Jagerman, Hansi Zeng, Zhen Qin, Dong Wang, Xuanhui Wang, Michael Bendersky \
+*Technical Report* [[Paper](https://arxiv.org/abs/2410.04343)]
+
+- **Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation** \
+Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
+*EMNLP 2024 Findings* [[Paper](https://arxiv.org/abs/2409.16627)] [[Code](https://github.com/yueqirex/fMRLRec)]
+
 - **Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments** \
 **Zhenrui Yue**, Huimin Zeng, Lanyu Shang, Yifan Liu, Yang Zhang, Dong Wang \
 *ACL 2024* [[Paper](https://arxiv.org/abs/2406.09815)] [[Code](https://github.com/yueeeeeeee/RAFTS)]
-
-- **Open-Vocabulary Federated Learning with Multimodal Prototyping** \
-Huimin Zeng, **Zhenrui Yue**, Dong Wang \
-*NAACL 2024* [[Paper](https://arxiv.org/abs/2404.01232)] [[Code](https://github.com/huiminzeng/Fed-MP)]
 
 - **Linear Recurrent Units for Sequential Recommendation** \
 **Zhenrui Yue\***, Yueqi Wang\*, Zhankui He, Huimin Zeng, Julian McAuley, Dong Wang \
@@ -77,13 +82,13 @@ Huimin Zeng, **Zhenrui Yue**, Dong Wang \
 **Zhenrui Yue**, Huimin Zeng, Yang Zhang, Lanyu Shang, Dong Wang \
 *ACL 2023* [[Paper](https://arxiv.org/abs/2305.12692)] [[Code](https://github.com/Yueeeeeeee/MetaAdapt)]
 
-- **Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19** \
-**Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-*CIKM 2022* [[Paper](https://arxiv.org/abs/2208.09578)] [[Code](https://github.com/Yueeeeeeee/CANMD)]
-
 - **Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
 *RecSys 2022* [[Paper](https://arxiv.org/abs/2207.11237)] [[Code](https://github.com/Yueeeeeeee/RecSys-Substitution-Defense)]
+
+- **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction** \
+**Zhenrui Yue\***, Zhankui He\*, Huimin Zeng, Julian McAuley \
+*RecSys 2021* [[Paper](https://arxiv.org/abs/2109.01165)] [[Code](https://github.com/Yueeeeeeee/RecSys-Extraction-Attack)]
 
 &emsp;Full publication list can be found on my google scholar page.
 
