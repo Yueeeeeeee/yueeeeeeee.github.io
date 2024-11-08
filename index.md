@@ -17,11 +17,6 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 - **[Apr. 2024]** One SIGIR '24 paper on fair sequential recommendation accepted!
 - **[Mar. 2024]** Two NAACL '24 papers accepted, stay tuned for our preprint & code.
 - **[Feb. 2024]** I will join Google to research on retrieval augmented generation in summer 2024!
-- **[Dec. 2023]** Just reached 200 citations on Google Scholar:)
-<!-- - **[Oct. 2023]** Our LRURec is accepted to WSDM '24, check out our preprint & code now!
-- **[Sep. 2023]** One PGAI '23 workshop paper on LLM for recommendation accepted.
-- **[Aug. 2023]** One CIKM '23 paper on poisoning uncertainty estimation accepted.
-- **[May. 2023]** Two ACL '23 papers accepted, stay tuned for our preprint & code! -->
 
 ## Experience
 
