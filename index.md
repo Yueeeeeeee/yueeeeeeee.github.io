@@ -98,4 +98,4 @@ Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
 
 &emsp;More will be added when I have time :)
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ku2rtr90ox&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=CCBG78Qfl8BwXKMGkSFsI7cO3UkNyK2gazBsjHEAJow"></script>
