@@ -98,4 +98,13 @@ Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
 
 &emsp;More will be added when I have time :)
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=CCBG78Qfl8BwXKMGkSFsI7cO3UkNyK2gazBsjHEAJow"></script>
+
+<table style="width: 100%;">
+    <tr style="border: none;">
+        <td style="width: 30%; text-align: left; border: none;"></td>
+        <td style="width: 40%; text-align: left; border: none;">
+            <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=CCBG78Qfl8BwXKMGkSFsI7cO3UkNyK2gazBsjHEAJow"></script>
+        </td>
+        <td style="width: 30%; text-align: right; border: none;"></td>
+    </tr>
+</table>
