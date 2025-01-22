@@ -8,6 +8,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## News
 
+- **[Jan. 2025]** Inference scaling for long-context RAG is accepted to ICLR 2025 🎉
 - **[Nov. 2024]** Just reached 500 citations on Google Scholar:)
 - **[Oct. 2024]** Check out our paper on inference scaling for long-context RAG!
 - **[Sep. 2024]** We have a findings paper at EMNLP 2024:)
@@ -56,7 +57,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 - **Inference Scaling for Long-Context Retrieval Augmented Generation** \
 **Zhenrui Yue\***, Honglei Zhuang\*, Aijun Bai, Kai Hui, Rolf Jagerman, Hansi Zeng, Zhen Qin, Dong Wang, Xuanhui Wang, Michael Bendersky \
-*Technical Report* [[Paper](https://arxiv.org/abs/2410.04343)]
+*ICLR 2025* [[Paper](https://arxiv.org/abs/2410.04343)]
 
 - **Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation** \
 Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
