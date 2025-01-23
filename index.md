@@ -29,7 +29,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
         </td>
         <td style="width: 30%; text-align: left; border: none;">
             Mountain View, CA<br/>
-            May 2024 - Present<br/>
+            May 2024 - Dec 2024<br/>
         </td>
         <td style="width: 30%; text-align: right; border: none;">
             <img src="assets/img/gdm_logo.svg" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
@@ -58,6 +58,10 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 - **Inference Scaling for Long-Context Retrieval Augmented Generation** \
 **Zhenrui Yue\***, Honglei Zhuang\*, Aijun Bai, Kai Hui, Rolf Jagerman, Hansi Zeng, Zhen Qin, Dong Wang, Xuanhui Wang, Michael Bendersky \
 *ICLR 2025* [[Paper](https://arxiv.org/abs/2410.04343)]
+
+- **Your Causal Self-Attentive Recommender Hosts a Lonely Neighborhood** \
+Yueqi Wang, Zhankui He, **Zhenrui Yue**, Julian McAuley, Dong Wang \
+*WSDM 2025* [[Paper](https://arxiv.org/abs/2406.02048)] [[Code](https://github.com/yueqirex/SAR-Check)]
 
 - **Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation** \
 Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
