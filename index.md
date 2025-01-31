@@ -8,6 +8,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## News
 
+- **[Feb. 2025]** I will join Meta GenAI to work on multimodal post-training in summer 2025:)
 - **[Jan. 2025]** Inference scaling for long-context RAG is accepted to ICLR 2025 🎉
 - **[Nov. 2024]** Just reached 500 citations on Google Scholar:)
 - **[Oct. 2024]** Check out our paper on inference scaling for long-context RAG!
@@ -91,13 +92,13 @@ Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
 **Zhenrui Yue\***, Zhankui He\*, Huimin Zeng, Julian McAuley \
 *RecSys 2021* [[Paper](https://arxiv.org/abs/2109.01165)] [[Code](https://github.com/Yueeeeeeee/RecSys-Extraction-Attack)]
 
-&emsp;Full publication list can be found on my google scholar page.
+&emsp;Full publication list can be found on my [google scholar](https://scholar.google.com/citations?user=9Iy_KmsAAAAJ).
 
 ## Miscellaneous
 
 &emsp;**Languages**: Chinese, Cantonese, English, German and a bit Spanish.
 
-&emsp;**Service**: AAAI, ARR (ACL, EMNLP, NAACL), COLING, ICLR, WWW, etc.
+&emsp;**Service**: AAAI, ARR (ACL, EMNLP, NAACL, etc.), COLING, ICLR, SIGIR, WWW.
 
 &emsp;**Teaching**: IS203 Discrete Math, IS206 Database, IS327 Machine Learning, IS496 Computer Networks.
 
