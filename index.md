@@ -9,7 +9,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 ## News
 
 - **[Feb. 2025]** I will join Meta GenAI to work on multimodal post-training in summer 2025:)
-- **[Jan. 2025]** Inference scaling for long-context RAG is accepted to ICLR 2025 🎉
+- **[Jan. 2025]** Inference scaling for long-context RAG is accepted to ICLR with oral presentation 🎉
 - **[Nov. 2024]** Just reached 500 citations on Google Scholar:)
 - **[Oct. 2024]** Check out our paper on inference scaling for long-context RAG!
 - **[Sep. 2024]** We have a findings paper at EMNLP 2024:)
@@ -41,7 +41,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 <table style="width: 100%;">
     <tr style="border: none;">
         <td style="width: 40%; text-align: left; border: none;">
-            <b>NVIDIA AI</b><br/>
+            <b>NVIDIA</b><br/>
             <i>Research Intern</i><br/>
         </td>
         <td style="width: 30%; text-align: left; border: none;">
@@ -58,15 +58,15 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 - **Inference Scaling for Long-Context Retrieval Augmented Generation** \
 **Zhenrui Yue\***, Honglei Zhuang\*, Aijun Bai, Kai Hui, Rolf Jagerman, Hansi Zeng, Zhen Qin, Dong Wang, Xuanhui Wang, Michael Bendersky \
-*ICLR 2025* [[Paper](https://arxiv.org/abs/2410.04343)]
+*ICLR 2025 (Oral)* [[Paper](https://arxiv.org/abs/2410.04343)]
 
 - **Your Causal Self-Attentive Recommender Hosts a Lonely Neighborhood** \
 Yueqi Wang, Zhankui He, **Zhenrui Yue**, Julian McAuley, Dong Wang \
-*WSDM 2025* [[Paper](https://arxiv.org/abs/2406.02048)] [[Code](https://github.com/yueqirex/SAR-Check)]
+*WSDM 2025 (Oral)* [[Paper](https://arxiv.org/abs/2406.02048)] [[Code](https://github.com/yueqirex/SAR-Check)]
 
-- **Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation** \
+<!-- - **Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation** \
 Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
-*Findings of EMNLP 2024* [[Paper](https://arxiv.org/abs/2409.16627)] [[Code](https://github.com/yueqirex/fMRLRec)]
+*Findings of EMNLP 2024* [[Paper](https://arxiv.org/abs/2409.16627)] [[Code](https://github.com/yueqirex/fMRLRec)] -->
 
 - **Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments** \
 **Zhenrui Yue**, Huimin Zeng, Lanyu Shang, Yifan Liu, Yang Zhang, Dong Wang \
@@ -82,7 +82,7 @@ Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
 
 - **MetaAdapt: Domain Adaptive Few-Shot Misinformation Detection via Meta Learning** \
 **Zhenrui Yue**, Huimin Zeng, Yang Zhang, Lanyu Shang, Dong Wang \
-*ACL 2023* [[Paper](https://arxiv.org/abs/2305.12692)] [[Code](https://github.com/Yueeeeeeee/MetaAdapt)]
+*ACL 2023 (Oral)* [[Paper](https://arxiv.org/abs/2305.12692)] [[Code](https://github.com/Yueeeeeeee/MetaAdapt)]
 
 - **Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
@@ -98,7 +98,9 @@ Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
 
 &emsp;**Languages**: Chinese, Cantonese, English, German and a bit Spanish.
 
-&emsp;**Service**: AAAI, ARR (ACL, EMNLP, NAACL, etc.), COLING, ICLR, SIGIR, WWW.
+&emsp;**SPC / AC**: ARR (ACL, EMNLP, NAACL, etc.).
+
+&emsp;**Reviewer**: AAAI, ARR (ACL, EMNLP, NAACL, etc.), COLING, ICLR, SIGIR, WWW.
 
 &emsp;**Teaching**: IS203 Discrete Math, IS206 Database, IS327 Machine Learning, IS496 Computer Networks.
 
