@@ -100,7 +100,7 @@ Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
 
 &emsp;**SPC / AC**: ARR (ACL, EMNLP, NAACL, etc.).
 
-&emsp;**Reviewer**: AAAI, ARR (ACL, EMNLP, NAACL, etc.), COLING, ICLR, SIGIR, WWW.
+&emsp;**Reviewer**: AAAI, ARR (ACL, EMNLP, NAACL, etc.), COLING, COLM, ICLR, KDD, SIGIR, WWW.
 
 &emsp;**Teaching**: IS203 Discrete Math, IS206 Database, IS327 Machine Learning, IS496 Computer Networks.
 
