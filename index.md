@@ -84,9 +84,17 @@ Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
 **Zhenrui Yue**, Huimin Zeng, Yang Zhang, Lanyu Shang, Dong Wang \
 *ACL 2023 (Oral)* [[Paper](https://arxiv.org/abs/2305.12692)] [[Code](https://github.com/Yueeeeeeee/MetaAdapt)]
 
+- **Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19** \
+**Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
+*RecSys 2022* [[Paper](https://arxiv.org/abs/2208.09578)] [[Code](https://github.com/Yueeeeeeee/CANMD)]
+
 - **Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-*RecSys 2022* [[Paper](https://arxiv.org/abs/2207.11237)] [[Code](https://github.com/Yueeeeeeee/RecSys-Substitution-Defense)]
+*CIKM 2022* [[Paper](https://arxiv.org/abs/2207.11237)] [[Code](https://github.com/Yueeeeeeee/RecSys-Substitution-Defense)]
+
+- **Contrastive Domain Adaptation for Question Answering using Limited Text Corpora** \
+**Zhenrui Yue**, Bernhard Kratzwald, Stefan Feuerriegel \
+*EMNLP 2021 (Oral)* [[Paper](https://arxiv.org/abs/2108.13854)] [[Code](https://github.com/Yueeeeeeee/CAQA)]
 
 - **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction** \
 **Zhenrui Yue\***, Zhankui He\*, Huimin Zeng, Julian McAuley \
