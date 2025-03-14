@@ -8,6 +8,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## News
 
+- **[Mar. 2025]** Check our recent efforts in integrating serach into reasoning LLMs: Search-R1!
 - **[Feb. 2025]** I will join Meta GenAI to work on multimodal post-training in summer 2025:)
 - **[Jan. 2025]** Inference scaling for long-context RAG is accepted to ICLR with oral presentation 🎉
 - **[Nov. 2024]** Just reached 500 citations on Google Scholar:)
@@ -18,7 +19,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 - **[May. 2024]** Two papers (1 main & 1 findings) accepted to ACL 2024, stay tuned for our preprint!
 - **[Apr. 2024]** One SIGIR '24 paper on fair sequential recommendation accepted!
 - **[Mar. 2024]** Two NAACL '24 papers accepted, stay tuned for our preprint & code.
-- **[Feb. 2024]** I will join Google to research on retrieval augmented generation in summer 2024!
+<!-- - **[Feb. 2024]** I will join Google to research on retrieval augmented generation in summer 2024! -->
 
 ## Experience
 
@@ -56,13 +57,17 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## Selected Publications
 
+- **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning** \
+Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Dong Wang, Hamed Zamani, Jiawei Han \
+*Preprint* [[Paper](https://arxiv.org/abs/2503.09516)]
+
 - **Inference Scaling for Long-Context Retrieval Augmented Generation** \
 **Zhenrui Yue\***, Honglei Zhuang\*, Aijun Bai, Kai Hui, Rolf Jagerman, Hansi Zeng, Zhen Qin, Dong Wang, Xuanhui Wang, Michael Bendersky \
 *ICLR 2025 (Oral)* [[Paper](https://arxiv.org/abs/2410.04343)]
 
-- **Your Causal Self-Attentive Recommender Hosts a Lonely Neighborhood** \
+<!-- - **Your Causal Self-Attentive Recommender Hosts a Lonely Neighborhood** \
 Yueqi Wang, Zhankui He, **Zhenrui Yue**, Julian McAuley, Dong Wang \
-*WSDM 2025 (Oral)* [[Paper](https://arxiv.org/abs/2406.02048)] [[Code](https://github.com/yueqirex/SAR-Check)]
+*WSDM 2025 (Oral)* [[Paper](https://arxiv.org/abs/2406.02048)] [[Code](https://github.com/yueqirex/SAR-Check)] -->
 
 <!-- - **Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation** \
 Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
