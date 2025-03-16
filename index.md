@@ -59,7 +59,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 - **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning** \
 Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Dong Wang, Hamed Zamani, Jiawei Han \
-*Preprint* [[Paper](https://arxiv.org/abs/2503.09516)]
+*Preprint* [[Paper](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)]
 
 - **Inference Scaling for Long-Context Retrieval Augmented Generation** \
 **Zhenrui Yue\***, Honglei Zhuang\*, Aijun Bai, Kai Hui, Rolf Jagerman, Hansi Zeng, Zhen Qin, Dong Wang, Xuanhui Wang, Michael Bendersky \
