@@ -19,7 +19,6 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 - **[May. 2024]** Two papers (1 main & 1 findings) accepted to ACL 2024, stay tuned for our preprint!
 - **[Apr. 2024]** One SIGIR '24 paper on fair sequential recommendation accepted!
 - **[Mar. 2024]** Two NAACL '24 papers accepted, stay tuned for our preprint & code.
-<!-- - **[Feb. 2024]** I will join Google to research on retrieval augmented generation in summer 2024! -->
 
 ## Experience
 
@@ -69,9 +68,9 @@ Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Dong Wang, Hamed Zamani, Jiawei Han \
 Yueqi Wang, Zhankui He, **Zhenrui Yue**, Julian McAuley, Dong Wang \
 *WSDM 2025 (Oral)* [[Paper](https://arxiv.org/abs/2406.02048)] [[Code](https://github.com/yueqirex/SAR-Check)] -->
 
-<!-- - **Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation** \
+- **Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation** \
 Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
-*Findings of EMNLP 2024* [[Paper](https://arxiv.org/abs/2409.16627)] [[Code](https://github.com/yueqirex/fMRLRec)] -->
+*Findings of EMNLP 2024* [[Paper](https://arxiv.org/abs/2409.16627)] [[Code](https://github.com/yueqirex/fMRLRec)]
 
 - **Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments** \
 **Zhenrui Yue**, Huimin Zeng, Lanyu Shang, Yifan Liu, Yang Zhang, Dong Wang \
@@ -89,9 +88,9 @@ Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
 **Zhenrui Yue**, Huimin Zeng, Yang Zhang, Lanyu Shang, Dong Wang \
 *ACL 2023 (Oral)* [[Paper](https://arxiv.org/abs/2305.12692)] [[Code](https://github.com/Yueeeeeeee/MetaAdapt)]
 
-- **Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19** \
+<!-- - **Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-*CIKM 2022* [[Paper](https://arxiv.org/abs/2208.09578)] [[Code](https://github.com/Yueeeeeeee/CANMD)]
+*CIKM 2022* [[Paper](https://arxiv.org/abs/2208.09578)] [[Code](https://github.com/Yueeeeeeee/CANMD)] -->
 
 - **Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
@@ -109,16 +108,15 @@ Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
 
 ## Miscellaneous
 
-&emsp;**Languages**: Chinese, Cantonese, English, German and a bit Spanish.
-
 &emsp;**SPC / AC**: ARR (ACL, EMNLP, NAACL, etc.).
 
-&emsp;**Reviewer**: AAAI, ARR (ACL, EMNLP, NAACL, etc.), COLING, COLM, ICLR, KDD, SIGIR, WWW.
+&emsp;**Reviewer**: AAAI, ARR (ACL, EMNLP, NAACL, etc.), COLING, COLM, ICCV, ICLR, KDD, SIGIR, WWW, etc.
 
-&emsp;**Teaching**: IS203 Discrete Math, IS206 Database, IS327 Machine Learning, IS496 Computer Networks.
+&emsp;**Teaching**: Discrete Math, Intro to Database, Machine Learning, Computer Networks.
+
+&emsp;**Languages**: Chinese, Cantonese, English, German and a bit Spanish.
 
 &emsp;More will be added when I have time :)
-
 
 <table style="width: 100%;">
     <tr style="border: none;">
