@@ -8,6 +8,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## News
 
+- **[May. 2025]** Just passed my PhD preliminary exam!
 - **[Mar. 2025]** Check our recent efforts in integrating serach into reasoning LLMs: Search-R1!
 - **[Feb. 2025]** I will join Meta GenAI to work on multimodal post-training in summer 2025:)
 - **[Jan. 2025]** Inference scaling for long-context RAG is accepted to ICLR with oral presentation 🎉
