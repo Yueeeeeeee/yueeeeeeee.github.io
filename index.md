@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candidate in Cognitive Science & Language Processing with [Dr. Wang](https://wangdong.org/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems and information retrieval. I am particularly interested in building efficient and reliable large language models (LLMs) and large multimodal models (LMMs), with real-world applications such as conversation and recommendation.
+Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candidate in Cognitive Science & Language Processing with [Dr. Wang](https://wangdong.org/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems and information retrieval. My current focus lies in developing high-performance, efficient and robust large language models (LLMs) and vision-language models (VLMs), with an emphasis on domains such as intelligent agents, conversational systems and recommendation.
 
 ## News
 
@@ -58,19 +58,11 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 - **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning** \
 Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Dong Wang, Hamed Zamani, Jiawei Han \
-*Preprint* [[Paper](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)]
+*Preprint 2025* [[Paper](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)]
 
 - **Inference Scaling for Long-Context Retrieval Augmented Generation** \
 **Zhenrui Yue\***, Honglei Zhuang\*, Aijun Bai, Kai Hui, Rolf Jagerman, Hansi Zeng, Zhen Qin, Dong Wang, Xuanhui Wang, Michael Bendersky \
 *ICLR 2025 (Oral)* [[Paper](https://arxiv.org/abs/2410.04343)]
-
-<!-- - **Your Causal Self-Attentive Recommender Hosts a Lonely Neighborhood** \
-Yueqi Wang, Zhankui He, **Zhenrui Yue**, Julian McAuley, Dong Wang \
-*WSDM 2025 (Oral)* [[Paper](https://arxiv.org/abs/2406.02048)] [[Code](https://github.com/yueqirex/SAR-Check)] -->
-
-- **Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation** \
-Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
-*Findings of EMNLP 2024* [[Paper](https://arxiv.org/abs/2409.16627)] [[Code](https://github.com/yueqirex/fMRLRec)]
 
 - **Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments** \
 **Zhenrui Yue**, Huimin Zeng, Lanyu Shang, Yifan Liu, Yang Zhang, Dong Wang \
@@ -88,10 +80,6 @@ Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
 **Zhenrui Yue**, Huimin Zeng, Yang Zhang, Lanyu Shang, Dong Wang \
 *ACL 2023 (Oral)* [[Paper](https://arxiv.org/abs/2305.12692)] [[Code](https://github.com/Yueeeeeeee/MetaAdapt)]
 
-<!-- - **Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19** \
-**Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-*CIKM 2022* [[Paper](https://arxiv.org/abs/2208.09578)] [[Code](https://github.com/Yueeeeeeee/CANMD)] -->
-
 - **Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
 *RecSys 2022* [[Paper](https://arxiv.org/abs/2207.11237)] [[Code](https://github.com/Yueeeeeeee/RecSys-Substitution-Defense)]
@@ -100,9 +88,9 @@ Yueqi Wang\*, **Zhenrui Yue\***, Huimin Zeng, Dong Wang, Julian McAuley \
 **Zhenrui Yue**, Bernhard Kratzwald, Stefan Feuerriegel \
 *EMNLP 2021 (Oral)* [[Paper](https://arxiv.org/abs/2108.13854)] [[Code](https://github.com/Yueeeeeeee/CAQA)]
 
-- **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction** \
+<!-- - **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction** \
 **Zhenrui Yue\***, Zhankui He\*, Huimin Zeng, Julian McAuley \
-*RecSys 2021* [[Paper](https://arxiv.org/abs/2109.01165)] [[Code](https://github.com/Yueeeeeeee/RecSys-Extraction-Attack)]
+*RecSys 2021* [[Paper](https://arxiv.org/abs/2109.01165)] [[Code](https://github.com/Yueeeeeeee/RecSys-Extraction-Attack)] -->
 
 &emsp;Full publication list can be found on my [google scholar](https://scholar.google.com/citations?user=9Iy_KmsAAAAJ).
 
