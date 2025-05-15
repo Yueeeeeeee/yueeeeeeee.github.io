@@ -8,7 +8,8 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## News
 
-- **[May. 2025]** Just passed my PhD preliminary exam!
+- **[May. 2025]** One paper on multimodal recommendation accepted to KDD 2025!
+- **[May. 2025]** Just passed my PhD preliminary exam 🎉🎉
 - **[Mar. 2025]** Check our recent efforts in integrating serach into reasoning LLMs: Search-R1!
 - **[Feb. 2025]** I will join Meta GenAI to work on multimodal post-training in summer 2025:)
 - **[Jan. 2025]** Inference scaling for long-context RAG is accepted to ICLR with oral presentation 🎉
@@ -18,8 +19,8 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 - **[Aug. 2024]** Gave a talk at LinkedIn on LLM / LMM for efficient recommendation.
 - **[Jul. 2024]** Gave a talk at UBER on efficient sequential recommendation & LRURec.
 - **[May. 2024]** Two papers (1 main & 1 findings) accepted to ACL 2024, stay tuned for our preprint!
-- **[Apr. 2024]** One SIGIR '24 paper on fair sequential recommendation accepted!
-- **[Mar. 2024]** Two NAACL '24 papers accepted, stay tuned for our preprint & code.
+<!-- - **[Apr. 2024]** One SIGIR '24 paper on fair sequential recommendation accepted!
+- **[Mar. 2024]** Two NAACL '24 papers accepted, stay tuned for our preprint & code. -->
 
 ## Experience
 
