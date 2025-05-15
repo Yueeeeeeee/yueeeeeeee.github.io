@@ -19,8 +19,6 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 - **[Aug. 2024]** Gave a talk at LinkedIn on LLM / LMM for efficient recommendation.
 - **[Jul. 2024]** Gave a talk at UBER on efficient sequential recommendation & LRURec.
 - **[May. 2024]** Two papers (1 main & 1 findings) accepted to ACL 2024, stay tuned for our preprint!
-<!-- - **[Apr. 2024]** One SIGIR '24 paper on fair sequential recommendation accepted!
-- **[Mar. 2024]** Two NAACL '24 papers accepted, stay tuned for our preprint & code. -->
 
 ## Experience
 
