@@ -25,6 +25,22 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 <table style="width: 100%;">
     <tr style="border: none;">
         <td style="width: 40%; text-align: left; border: none;">
+            <b>Meta GenAI</b><br/>
+            <i>Research Intern</i><br/>
+        </td>
+        <td style="width: 30%; text-align: left; border: none;">
+            Menlo Park, CA<br/>
+            May 2025 - Present<br/>
+        </td>
+        <td style="width: 30%; text-align: right; border: none;">
+            <img src="assets/img/meta_logo.svg" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
+        </td>
+    </tr>
+</table>
+
+<table style="width: 100%;">
+    <tr style="border: none;">
+        <td style="width: 40%; text-align: left; border: none;">
             <b>Google DeepMind</b><br/>
             <i>Student Researcher</i><br/>
         </td>
