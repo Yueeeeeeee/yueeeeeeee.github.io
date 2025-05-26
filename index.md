@@ -25,7 +25,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 <table style="width: 100%;">
     <tr style="border: none;">
         <td style="width: 40%; text-align: left; border: none;">
-            <b>Meta GenAI</b><br/>
+            <b>Meta</b><br/>
             <i>Research Intern</i><br/>
         </td>
         <td style="width: 30%; text-align: left; border: none;">
@@ -114,7 +114,7 @@ Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Dong Wang, Hamed Zamani, Jiawei Han \
 
 &emsp;**SPC / AC**: ARR (ACL, EMNLP, NAACL, etc.).
 
-&emsp;**Reviewer**: AAAI, ARR (ACL, EMNLP, NAACL, etc.), COLING, COLM, ICCV, ICLR, KDD, SIGIR, WWW, etc.
+&emsp;**Reviewer**: AAAI, ARR, COLING, COLM, ICCV, ICLR, KDD, NeurIPS, SIGIR, WWW, etc.
 
 &emsp;**Teaching**: Discrete Math, Intro to Database, Machine Learning, Computer Networks.
 
