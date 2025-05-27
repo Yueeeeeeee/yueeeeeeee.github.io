@@ -72,8 +72,12 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candida
 
 ## Selected Publications
 
+- **Hybrid Latent Reasoning via Reinforcement Learning** \
+**Zhenrui Yue**, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang \
+*Preprint 2025* [[Paper](https://arxiv.org/abs/2505.18454)] [[Code](https://github.com/yueeeeeeee/HRPO)]
+
 - **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning** \
-Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Dong Wang, Hamed Zamani, Jiawei Han \
+Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Jinsung Yoon, Sercan Arik, Dong Wang, Hamed Zamani, Jiawei Han \
 *Preprint 2025* [[Paper](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)]
 
 - **Inference Scaling for Long-Context Retrieval Augmented Generation** \
