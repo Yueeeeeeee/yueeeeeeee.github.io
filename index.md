@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a 4th year Ph.D. candidate in Cognitive Science & Language Processing with [Dr. Wang](https://wangdong.org/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems and information retrieval. My current focus lies in developing high-performance, efficient and robust large language models (LLMs) and vision-language models (VLMs), with an emphasis on domains such as intelligent agents, conversational systems and recommendation.
+Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a final year Ph.D. candidate in Cognitive Science & Language Processing with [Dr. Wang](https://wangdong.org/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems and information retrieval. My current focus lies in developing high-performance, efficient and robust large language models (LLMs) and vision-language models (VLMs), with an emphasis on domains such as intelligent agents, conversational systems and recommendation.
 
 ## News
 
