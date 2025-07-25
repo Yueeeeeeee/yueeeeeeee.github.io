@@ -8,7 +8,8 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a final year Ph.D. candi
 
 ## News
 
-- **[May. 2025]** One paper on multimodal recommendation accepted to KDD 2025!
+- **[Jul. 2025]** Just reached 1k citations on Google Scholar!
+- **[Jun. 2025]** One paper on multimodal recommendation accepted to KDD 2025!
 - **[May. 2025]** Just passed my PhD preliminary exam 🎉🎉
 - **[Mar. 2025]** Check our recent efforts in integrating serach into reasoning LLMs: Search-R1!
 - **[Feb. 2025]** I will join Meta GenAI to work on LLM post-training in summer 2025:)
@@ -25,7 +26,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a final year Ph.D. candi
 <table style="width: 100%;">
     <tr style="border: none;">
         <td style="width: 40%; text-align: left; border: none;">
-            <b>Meta</b><br/>
+            <b>Meta GenAI</b><br/>
             <i>Research Intern</i><br/>
         </td>
         <td style="width: 30%; text-align: left; border: none;">
