@@ -8,6 +8,8 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a final year Ph.D. candi
 
 ## News
 
+- **[Sep. 2025]** HRPO is accepted to NeurIPS 2025🎉🎉
+- **[Aug. 2025]** One paper accepted to EMNLP 2025 main!
 - **[Jul. 2025]** Just reached 1k citations on Google Scholar!
 - **[Jun. 2025]** One paper on multimodal recommendation accepted to KDD 2025!
 - **[May. 2025]** Just passed my PhD preliminary exam 🎉🎉
@@ -17,16 +19,13 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a final year Ph.D. candi
 - **[Nov. 2024]** Just reached 500 citations on Google Scholar:)
 - **[Oct. 2024]** Check out our paper on inference scaling for long-context RAG!
 - **[Sep. 2024]** We have a findings paper at EMNLP 2024:)
-- **[Aug. 2024]** Gave a talk at LinkedIn on LLM / LMM for efficient recommendation.
-- **[Jul. 2024]** Gave a talk at UBER on efficient sequential recommendation & LRURec.
-- **[May. 2024]** Two papers (1 main & 1 findings) accepted to ACL 2024, stay tuned for our preprint!
 
 ## Experience
 
 <table style="width: 100%;">
     <tr style="border: none;">
         <td style="width: 40%; text-align: left; border: none;">
-            <b>Meta GenAI</b><br/>
+            <b>Meta GenAI / MSL</b><br/>
             <i>Research Intern</i><br/>
         </td>
         <td style="width: 30%; text-align: left; border: none;">
@@ -75,7 +74,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a final year Ph.D. candi
 
 - **Hybrid Latent Reasoning via Reinforcement Learning** \
 **Zhenrui Yue**, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang \
-*Preprint 2025* [[Paper](https://arxiv.org/abs/2505.18454)] [[Code](https://github.com/yueeeeeeee/HRPO)]
+*NeurIPS 2025* [[Paper](https://arxiv.org/abs/2505.18454)] [[Code](https://github.com/yueeeeeeee/HRPO)]
 
 - **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning** \
 Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Jinsung Yoon, Sercan Arik, Dong Wang, Hamed Zamani, Jiawei Han \
