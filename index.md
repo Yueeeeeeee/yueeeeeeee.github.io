@@ -30,7 +30,7 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a final year Ph.D. candi
         </td>
         <td style="width: 30%; text-align: left; border: none;">
             Menlo Park, CA<br/>
-            May 2025 - Present<br/>
+            May 2025 - Dec 2025<br/>
         </td>
         <td style="width: 30%; text-align: right; border: none;">
             <img src="assets/img/meta_logo.svg" width="90%" style="display: block; margin-left: auto; margin-right: auto;">
