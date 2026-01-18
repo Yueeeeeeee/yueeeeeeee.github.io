@@ -72,6 +72,10 @@ Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am a final year Ph.D. candi
 
 ## Selected Publications
 
+- **Dr. Zero: Self-Evolving Search Agents without Training Data** \
+**Zhenrui Yue**, Kartikeya Upasani, Xianjun Yang, Suyu Ge, Shaoliang Nie, Yuning Mao, Zhe Liu, Dong Wang \
+*ArXiv 2026* [[Paper](https://arxiv.org/abs/2601.07055)] [[Code](https://github.com/facebookresearch/drzero)]
+
 - **Hybrid Latent Reasoning via Reinforcement Learning** \
 **Zhenrui Yue**, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang \
 *NeurIPS 2025* [[Paper](https://arxiv.org/abs/2505.18454)] [[Code](https://github.com/yueeeeeeee/HRPO)]
