@@ -8,10 +8,10 @@ Hello, I'm Zhenrui Yue (岳真锐 in Chinese), a research scientist at [Google D
 
 ## News
 
-- **[March. 2026]** Just defended my PhD thesis!
-- **[Jan. 2026]** Check our recent efforts in data-free self-evolution: Dr. Zero:)
-- **[Dec. 2025]** Started as research scientist at Google Deepmind🎉
-- **[Sep. 2025]** HRPO is accepted to NeurIPS 2025🎉🎉
+- **[Mar. 2026]** Just defended my PhD thesis🎉🎉
+- **[Jan. 2026]** Check our recent efforts in data-free self-evolution: Dr. Zero!
+- **[Dec. 2025]** Started as research scientist at Google Deepmind:)
+- **[Sep. 2025]** HRPO is accepted to NeurIPS 2025🎉
 - **[Aug. 2025]** One paper accepted to EMNLP 2025 main!
 - **[Jul. 2025]** Just reached 1k citations on Google Scholar!
 - **[Jun. 2025]** One paper on multimodal recommendation accepted to KDD 2025!
