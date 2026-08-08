@@ -10,7 +10,7 @@ I recently earned my PhD at [University of Illinois Urbana-Champaign](https://il
 
 ## 🌋 Research Interests
 
-My research lies at the intersection of reinforcement learning, recursive self-improvement and continual learning. I aim to build language models and agents that learn through interaction, accumulate knowledge and skills as their environments evolve, and ultimately generate the experience and feedback needed to drive their own improvement. Today's LLM post-training often relies on static datasets, sparse outcome rewards, and one-off training pipelines. This makes it difficult to assign credit across long trajectories, acquire new capabilities without forgetting existing ones, and sustain reliable, open-ended improvement. My work and current interests span three connected areas:
+My research lies at the intersection of reinforcement learning, recursive self-improvement, and continual learning. I aim to build language agents that learn through interaction, accumulate knowledge and skills as the environments evolve, and ultimately generate the experience and feedback to drive their own improvement. Realizing this vision requires moving beyond today’s LLM training, which often rely on static datasets, sparse rewards, and one-off training pipelines. These limitations make it difficult to assign credit across long trajectories, acquire new capabilities without forgetting existing ones, and sustain reliable, open-ended improvement. To address these challenges, my work and interests span three connected areas:
 
 - **Reinforcement learning for agentic systems**:
     - Train LLMs to reason in hybrid discrete and continuous spaces ([HRPO](https://arxiv.org/abs/2505.18454))
