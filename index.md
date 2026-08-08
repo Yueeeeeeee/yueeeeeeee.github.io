@@ -2,11 +2,13 @@
 layout: homepage
 ---
 
-## About Me
+## 👋 About Me
 
-Hello, I'm Zhenrui Yue (岳真锐 in Chinese), a research scientist at [Google DeepMind](https://deepmind.google/). I recently earned my PhD at [University of Illinois Urbana-Champaign](https://illinois.edu/) with [Dr. Wang](https://wangdong.org/). Prior to that, I graduated with B.S. and M.S. from [Technische Universität München](https://tum.de/).
+Hello, I'm Zhenrui Yue (岳真锐 in Chinese), a research scientist at [Google DeepMind](https://deepmind.google/). My research focuses on building language models and agents that can learn from interaction, adapt over time, and ultimately improve themselves through the experience and feedback they generate.
 
-### 🌋 Research Interests
+I recently earned my PhD at [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Dr. Wang](https://wangdong.org/). During my doctoral studies, I also spent time as a student researcher and research intern at Google DeepMind, Meta MSL / GenAI, and NVIDIA. Prior to that, I earned my B.S. and M.S. degrees from [Technische Universität München](https://tum.de/).
+
+## 🌋 Research Interests
 
 My research lies at the intersection of reinforcement learning, recursive self-improvement and continual learning. I aim to build language models and agents that learn through interaction, accumulate knowledge and skills as their environments evolve, and ultimately generate the experience and feedback needed to drive their own improvement. Today's LLM post-training often relies on static datasets, sparse outcome rewards, and one-off training pipelines. This makes it difficult to assign credit across long trajectories, acquire new capabilities without forgetting existing ones, and sustain reliable, open-ended improvement. My work and current interests span three connected areas:
 
@@ -24,7 +26,7 @@ My research lies at the intersection of reinforcement learning, recursive self-i
     - Adapt LLMs to emerging domains and tasks by learning from limited supervision & human preferences ([RAFTS](https://arxiv.org/abs/2406.09815), [RARG](https://arxiv.org/abs/2403.14952))
 
 
-## News
+<!-- ## 📰 News
 
 - **[Jul. 2026]** Dr. Zero is accepted to COLM 2026, see you in SF!
 - **[Mar. 2026]** Just defended my PhD thesis🎉🎉
@@ -37,9 +39,9 @@ My research lies at the intersection of reinforcement learning, recursive self-i
 - **[May. 2025]** Just passed my PhD preliminary exam 🎉🎉
 - **[Mar. 2025]** Check our recent efforts in integrating search into reasoning LLMs: Search-R1!
 - **[Feb. 2025]** I will join Meta GenAI to work on LLM post-training in summer 2025:)
-- **[Jan. 2025]** Inference scaling for long-context RAG is accepted to ICLR with oral presentation 🎉
+- **[Jan. 2025]** Inference scaling for long-context RAG is accepted to ICLR with oral presentation 🎉 -->
 
-## Experience
+## 💼 Experience
 
 <table style="width: 100%;">
     <tr style="border: none;">
@@ -104,7 +106,7 @@ My research lies at the intersection of reinforcement learning, recursive self-i
     </tr>
 </table>
 
-## Selected Publications
+## 📚 Selected Publications
 
 - **Dr. Zero: Self-Evolving Search Agents without Training Data** \
 **Zhenrui Yue**, Kartikeya Upasani, Xianjun Yang, Suyu Ge, Shaoliang Nie, Yuning Mao, Zhe Liu, Dong Wang \
@@ -152,7 +154,7 @@ Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Jinsung Yoon, Sercan Arik, Dong Wang, Ha
 
 &emsp;Full publication list can be found on my [google scholar](https://scholar.google.com/citations?user=9Iy_KmsAAAAJ).
 
-## Miscellaneous
+## ✨ Miscellaneous
 
 &emsp;**SPC / AC**: ARR (ACL, EMNLP, NAACL, etc.).
 
