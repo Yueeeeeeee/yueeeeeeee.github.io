@@ -4,15 +4,15 @@ layout: homepage
 
 ## 👋 About Me
 
-Hello, I'm Zhenrui Yue (岳真锐 in Chinese), a research scientist at [Google DeepMind](https://deepmind.google/). My research focuses on building language models and agents that can learn from interaction, adapt over time, and ultimately improve themselves through the experience and feedback they generate.
+Hello, I'm Zhenrui Yue (岳真锐 in Chinese), a research scientist at [Google DeepMind](https://deepmind.google/). My research focuses on building language models and agents that can learn from interaction to solve long-horizon tasks, adapt over time, and ultimately improve themselves through the experience and feedback they generate.
 
 I recently earned my PhD at [University of Illinois Urbana-Champaign](https://illinois.edu/), where I was advised by [Dr. Wang](https://wangdong.org/). During my doctoral studies, I also spent time as a student researcher and research intern at Google DeepMind, Meta MSL / GenAI, and NVIDIA. Prior to that, I earned my B.S. and M.S. degrees from [Technische Universität München](https://tum.de/).
 
 ## 🌋 Research Interests
 
-My research lies at the intersection of reinforcement learning, recursive self-improvement, and continual learning. I aim to build language agents that learn through interaction, accumulate knowledge and skills as the environments evolve, and ultimately generate the experience and feedback to drive their own improvement. Realizing this vision requires moving beyond today’s LLM training, which often rely on static datasets, sparse rewards, and one-off training pipelines. These limitations make it difficult to assign credit across long trajectories, acquire new capabilities without forgetting existing ones, and sustain reliable, open-ended improvement. To address these challenges, my work and interests span three connected areas:
+My research lies at the intersection of reinforcement learning for long-horizon tasks, recursive self-improvement, and continual learning. I aim to build language agents that learn through extended interaction, accumulate knowledge and skills as their environments evolve, and ultimately generate the experience and feedback that drive their own improvement. Realizing this vision requires moving beyond today’s LLM training, which often relies on static datasets, sparse rewards, and one-off training pipelines. These limitations make it difficult to assign credit across long trajectories, acquire new capabilities without forgetting existing ones, and sustain reliable, open-ended improvement. To address these challenges, my work and interests span three connected areas:
 
-- **Reinforcement learning for agentic systems**:
+- **Reinforcement learning for long-horizon tasks**:
     - Train LLMs to reason in hybrid discrete and continuous spaces ([HRPO](https://arxiv.org/abs/2505.18454))
     - Teach agents to reason with search and other external tools ([Search-R1](https://arxiv.org/abs/2503.09516))
     - Develop stable and efficient learning signals for long-horizon decision-making, with an emphasis on credit assignment
@@ -20,7 +20,7 @@ My research lies at the intersection of reinforcement learning, recursive self-i
     - Close the loop between task generation and learning so that agents can create increasingly challenging curricula without human annotation ([Dr. Zero](https://arxiv.org/abs/2601.07055))
     - Advance on-policy distillation and self-distillation to complement sparse environmental rewards with dense learning signals and bootstrap successive policy improvements
     - Study how self-generated tasks, verifiable feedback, and persistent memory can enable reliable, open-ended improvement
-- **Continual learning and adaptation**:
+- **Continual learning**:
     - Develop continual post-training methods that acquire new knowledge and behaviors while preserving existing capabilities
     - Improve models' use of computation and evidence at test time through search, reasoning, and test-time scaling ([Inference Scaling](https://arxiv.org/abs/2410.04343))
     - Adapt LLMs to emerging domains and tasks by learning from limited supervision & human preferences ([RAFTS](https://arxiv.org/abs/2406.09815), [RARG](https://arxiv.org/abs/2403.14952))
