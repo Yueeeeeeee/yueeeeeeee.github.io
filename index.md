@@ -50,6 +50,7 @@ My research lies at the intersection of reinforcement learning, recursive self-i
             <i>Research Scientist</i><br/>
         </td>
         <td style="width: 30%; text-align: left; border: none;">
+            Mountain View, CA<br/>
             Dec 2025 - Present<br/>
         </td>
         <td style="width: 30%; text-align: right; border: none;">
