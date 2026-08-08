@@ -130,7 +130,7 @@ Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Jinsung Yoon, Sercan Arik, Dong Wang, Ha
 **Zhenrui Yue\***, Yueqi Wang\*, Zhankui He, Huimin Zeng, Julian McAuley, Dong Wang \
 *WSDM 2024* [[Paper](https://arxiv.org/abs/2310.02367)] [[Code](https://github.com/yueqirex/LRURec)]
 
-- **LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking** \
+<!-- - **LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking** \
 **Zhenrui Yue**, Sara Rabhi, Gabriel Moreira, Dong Wang, Even Oldridge \
 *PGAI@CIKM 2023* [[Paper](https://arxiv.org/abs/2311.02089)] [[Code](https://github.com/Yueeeeeeee/LlamaRec)]
 
@@ -144,7 +144,7 @@ Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Jinsung Yoon, Sercan Arik, Dong Wang, Ha
 
 - **Contrastive Domain Adaptation for Question Answering using Limited Text Corpora** \
 **Zhenrui Yue**, Bernhard Kratzwald, Stefan Feuerriegel \
-*EMNLP 2021 (Oral)* [[Paper](https://arxiv.org/abs/2108.13854)] [[Code](https://github.com/Yueeeeeeee/CAQA)]
+*EMNLP 2021 (Oral)* [[Paper](https://arxiv.org/abs/2108.13854)] [[Code](https://github.com/Yueeeeeeee/CAQA)] -->
 
 <!-- - **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction** \
 **Zhenrui Yue\***, Zhankui He\*, Huimin Zeng, Julian McAuley \
@@ -156,7 +156,7 @@ Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Jinsung Yoon, Sercan Arik, Dong Wang, Ha
 
 &emsp;**SPC / AC**: ARR (ACL, EMNLP, NAACL, etc.).
 
-&emsp;**Reviewer**: AAAI, ARR, COLING, COLM, ICCV, ICLR, KDD, NeurIPS, SIGIR, WWW, etc.
+&emsp;**Reviewer**: AAAI, ARR, COLM, ICCV, ICLR, KDD, NeurIPS, TMLR, etc.
 
 &emsp;**Teaching**: Discrete Math, Intro to Database, Machine Learning, Computer Networks.
 
