@@ -1,13 +1,14 @@
 # Basic Information 
 title: Zhenrui Yue
-position: Ph.D. Candidate
-affiliation: University of Illinois Urbana-Champaign
+position: Research Scientist
+affiliation: Google DeepMind
+affiliation_link: https://deepmind.google/
 email: zhenrui3 (at) illinois (dot) edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Zhenrui Yue
-description: Zhenrui's Webpage
+keywords: "Zhenrui Yue, Google DeepMind, reinforcement learning, recursive self-improvement, continual learning, language models, LLM agents, agentic AI, credit assignment, on-policy distillation, test-time scaling"
+description: "Zhenrui Yue is a Google DeepMind Research Scientist working on reinforcement learning, recursive self-improvement, and continual learning for AI agents."
 canonical: https://yueeeeeeee.github.io
 
 # Links 

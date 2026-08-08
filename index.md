@@ -4,23 +4,57 @@ layout: homepage
 
 ## About Me
 
-Hello, I'm Zhenrui Yue (岳真锐 in Chinese), a research scientist at [Google DeepMind](https://deepmind.google/). I recently earned my Ph.D. at [University of Illinois Urbana-Champaign](https://illinois.edu/) with [Dr. Wang](https://wangdong.org/). Prior to that, I graduated with B.S. in Mechatronics and Information Technology and M.S. in Robotics, Cognition, Intelligence from [Technische Universität München](https://tum.de/). I have broad research interests in natural language processing, recommender systems and information retrieval. Currently, my work emphasizes the post-training of large language models (LLMs) and the development of high-performance, autonomous and personalized agents.
+Hello, I'm Zhenrui Yue (岳真锐 in Chinese), a research scientist at [Google DeepMind](https://deepmind.google/). I recently earned my PhD at [University of Illinois Urbana-Champaign](https://illinois.edu/) with [Dr. Wang](https://wangdong.org/). Prior to that, I graduated with B.S. and M.S. from [Technische Universität München](https://tum.de/).
+
+### 🌋 Research Interests
+
+My research lies at the intersection of reinforcement learning, recursive self-improvement and continual learning. I aim to build language models and agents that learn through interaction, accumulate knowledge and skills as their environments evolve, and ultimately generate the experience and feedback needed to drive their own improvement. Today's LLM post-training often relies on static datasets, sparse outcome rewards, and one-off training pipelines. This makes it difficult to assign credit across long trajectories, acquire new capabilities without forgetting existing ones, and sustain reliable, open-ended improvement. My work and current interests span three connected areas:
+
+- **Reinforcement learning for agentic systems**:
+    - Train LLMs to reason in hybrid discrete and continuous spaces ([HRPO](https://arxiv.org/abs/2505.18454))
+    - Teach agents to reason with search and other external tools ([Search-R1](https://arxiv.org/abs/2503.09516))
+    - Develop stable and efficient learning signals for long-horizon decision-making, with an emphasis on credit assignment
+- **Recursive self-improvement**:
+    - Close the loop between task generation and learning so that agents can create increasingly challenging curricula without human annotation ([Dr. Zero](https://arxiv.org/abs/2601.07055))
+    - Advance on-policy distillation and self-distillation to complement sparse environmental rewards with dense learning signals and bootstrap successive policy improvements
+    - Study how self-generated tasks, verifiable feedback, and persistent memory can enable reliable, open-ended improvement
+- **Continual learning and adaptation**:
+    - Develop continual post-training methods that acquire new knowledge and behaviors while preserving existing capabilities
+    - Improve models' use of computation and evidence at test time through search, reasoning, and test-time scaling ([Inference Scaling](https://arxiv.org/abs/2410.04343))
+    - Adapt LLMs to emerging domains and tasks by learning from limited supervision & human preferences ([RAFTS](https://arxiv.org/abs/2406.09815), [RARG](https://arxiv.org/abs/2403.14952))
+
 
 ## News
 
+- **[Jul. 2026]** Dr. Zero is accepted to COLM 2026, see you in SF!
 - **[Mar. 2026]** Just defended my PhD thesis🎉🎉
 - **[Jan. 2026]** Check our recent efforts in data-free self-evolution: Dr. Zero!
-- **[Dec. 2025]** Started as research scientist at Google Deepmind:)
+- **[Dec. 2025]** Started as research scientist at Google DeepMind:)
 - **[Sep. 2025]** HRPO is accepted to NeurIPS 2025🎉
 - **[Aug. 2025]** One paper accepted to EMNLP 2025 main!
 - **[Jul. 2025]** Just reached 1k citations on Google Scholar!
 - **[Jun. 2025]** One paper on multimodal recommendation accepted to KDD 2025!
 - **[May. 2025]** Just passed my PhD preliminary exam 🎉🎉
-- **[Mar. 2025]** Check our recent efforts in integrating serach into reasoning LLMs: Search-R1!
+- **[Mar. 2025]** Check our recent efforts in integrating search into reasoning LLMs: Search-R1!
 - **[Feb. 2025]** I will join Meta GenAI to work on LLM post-training in summer 2025:)
 - **[Jan. 2025]** Inference scaling for long-context RAG is accepted to ICLR with oral presentation 🎉
 
 ## Experience
+
+<table style="width: 100%;">
+    <tr style="border: none;">
+        <td style="width: 40%; text-align: left; border: none;">
+            <b>Google DeepMind</b><br/>
+            <i>Research Scientist</i><br/>
+        </td>
+        <td style="width: 30%; text-align: left; border: none;">
+            Dec 2025 - Present<br/>
+        </td>
+        <td style="width: 30%; text-align: right; border: none;">
+            <img src="assets/img/gdm_logo.svg" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
+        </td>
+    </tr>
+</table>
 
 <table style="width: 100%;">
     <tr style="border: none;">
@@ -74,7 +108,7 @@ Hello, I'm Zhenrui Yue (岳真锐 in Chinese), a research scientist at [Google D
 
 - **Dr. Zero: Self-Evolving Search Agents without Training Data** \
 **Zhenrui Yue**, Kartikeya Upasani, Xianjun Yang, Suyu Ge, Shaoliang Nie, Yuning Mao, Zhe Liu, Dong Wang \
-*ArXiv 2026* [[Paper](https://arxiv.org/abs/2601.07055)] [[Code](https://github.com/facebookresearch/drzero)]
+*COLM 2026* [[Paper](https://arxiv.org/abs/2601.07055)] [[Code](https://github.com/facebookresearch/drzero)]
 
 - **Hybrid Latent Reasoning via Reinforcement Learning** \
 **Zhenrui Yue**, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang \
