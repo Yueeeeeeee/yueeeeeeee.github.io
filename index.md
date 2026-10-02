@@ -10,11 +10,20 @@ I recently earned my PhD at [University of Illinois Urbana-Champaign](https://il
 
 ## 🌋 Research Interests
 
-I aim to build language agents that learn through extended interaction, adapt over time, and generate the experience and feedback that drive their own improvement. My work and interests span three connected areas:
+My research lies at the intersection of reinforcement learning for long-horizon tasks, recursive self-improvement, and continual learning. I aim to build language agents that learn through extended interaction, accumulate knowledge and skills as their environments evolve, and ultimately generate the experience and feedback that drive their own improvement. My work and interests span three connected areas:
 
-- **Reinforcement learning for reasoning and long-horizon tasks**: Train LLMs to reason in hybrid discrete and continuous spaces ([HRPO](https://arxiv.org/abs/2505.18454)) and use search and other external tools ([Search-R1](https://arxiv.org/abs/2503.09516)). I am also interested in stable and efficient learning signals for long-horizon decision-making, particularly credit assignment.
-- **Recursive self-improvement**: Close the loop between task generation and learning without human annotation ([Dr. Zero](https://arxiv.org/abs/2601.07055)), and use on-policy distillation and self-distillation to support successive policy improvements ([SIPO](https://arxiv.org/abs/2609.36742)). I am interested in how self-generated tasks, verifiable feedback, and persistent memory can sustain reliable, open-ended improvement.
-- **Test-time scaling and adaptation**: Improve models' use of computation and evidence at test time ([Inference Scaling](https://arxiv.org/abs/2410.04343)), and adapt LLMs to new domains and tasks with limited supervision and human preferences ([RAFTS](https://arxiv.org/abs/2406.09815), [RARG](https://arxiv.org/abs/2403.14952)). My broader interests include continual post-training that acquires new capabilities while preserving existing ones.
+- **Reinforcement learning for long-horizon tasks**:
+    - Train LLMs to reason in hybrid discrete and continuous spaces ([HRPO](https://arxiv.org/abs/2505.18454))
+    - Teach agents to reason with search and other external tools ([Search-R1](https://arxiv.org/abs/2503.09516))
+    - Develop stable and efficient learning signals for long-horizon decision-making, with an emphasis on credit assignment
+- **Recursive self-improvement**:
+    - Close the loop between task generation and learning so that agents can create curricula without human annotation ([Dr. Zero](https://arxiv.org/abs/2601.07055))
+    - Advance reinforcement learning and on-policy distillation to complement sparse environmental rewards with dense learning signals ([SIPO](https://arxiv.org/abs/2609.36742))
+    - Study how self-generated tasks, verifiable feedback, and persistent memory can enable reliable, open-ended improvement
+- **Continual learning**:
+    - Develop continual post-training methods that acquire new knowledge and behaviors while preserving existing capabilities
+    - Improve models' use of computation and evidence at test time through search, reasoning, and test-time scaling ([Inference Scaling](https://arxiv.org/abs/2410.04343))
+    - Adapt LLMs to emerging domains and tasks by learning from limited supervision & human preferences ([RAFTS](https://arxiv.org/abs/2406.09815), [RARG](https://arxiv.org/abs/2403.14952))
 
 
 <!-- ## 📰 News
@@ -45,7 +54,7 @@ I aim to build language agents that learn through extended interaction, adapt ov
             Dec 2025 - Present<br/>
         </td>
         <td style="width: 30%; text-align: right; border: none;">
-            <img src="assets/img/gdm_logo.svg" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
+            <img src="assets/img/gdm_logo.svg" width="80%" style="display: block; margin-left: auto; margin-right: auto;">
         </td>
     </tr>
 </table>
@@ -61,7 +70,7 @@ I aim to build language agents that learn through extended interaction, adapt ov
             May 2025 - Dec 2025<br/>
         </td>
         <td style="width: 30%; text-align: right; border: none;">
-            <img src="assets/img/meta_logo.svg" width="90%" style="display: block; margin-left: auto; margin-right: auto;">
+            <img src="assets/img/meta_logo.svg" width="72%" style="display: block; margin-left: auto; margin-right: auto;">
         </td>
     </tr>
 </table>
@@ -77,7 +86,7 @@ I aim to build language agents that learn through extended interaction, adapt ov
             May 2024 - Dec 2024<br/>
         </td>
         <td style="width: 30%; text-align: right; border: none;">
-            <img src="assets/img/gdm_logo.svg" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
+            <img src="assets/img/gdm_logo.svg" width="80%" style="display: block; margin-left: auto; margin-right: auto;">
         </td>
     </tr>
 </table>
@@ -93,12 +102,12 @@ I aim to build language agents that learn through extended interaction, adapt ov
             May 2023 - Aug 2023<br/>
         </td>
         <td style="width: 30%; text-align: right; border: none;">
-            <img src="assets/img/nvidia_logo.svg" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
+            <img src="assets/img/nvidia_logo.svg" width="80%" style="display: block; margin-left: auto; margin-right: auto;">
         </td>
     </tr>
 </table>
 
-## 📚 Selected Publications
+## 📚 Recent Publications
 
 - **Dr. Zero: Self-Evolving Search Agents without Training Data** \
 **Zhenrui Yue**, Kartikeya Upasani, Xianjun Yang, Suyu Ge, Shaoliang Nie, Yuning Mao, Zhe Liu, Dong Wang \
@@ -144,7 +153,7 @@ Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Jinsung Yoon, Sercan Arik, Dong Wang, Ha
 **Zhenrui Yue\***, Zhankui He\*, Huimin Zeng, Julian McAuley \
 *RecSys 2021* [[Paper](https://arxiv.org/abs/2109.01165)] [[Code](https://github.com/Yueeeeeeee/RecSys-Extraction-Attack)] -->
 
-&emsp;Full publication list can be found on my [google scholar](https://scholar.google.com/citations?user=9Iy_KmsAAAAJ).
+&emsp;Full publication list can be found on my [Google Scholar](https://scholar.google.com/citations?user=9Iy_KmsAAAAJ).
 
 ## ✨ Miscellaneous
 
@@ -155,8 +164,6 @@ Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Jinsung Yoon, Sercan Arik, Dong Wang, Ha
 &emsp;**Teaching**: Discrete Math, Intro to Database, Machine Learning, Computer Networks.
 
 &emsp;**Languages**: Chinese, Cantonese, English, German and a bit Spanish.
-
-&emsp;More will be added when I have time :)
 
 <table style="width: 100%;">
     <tr style="border: none;">
