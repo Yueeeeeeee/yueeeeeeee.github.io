@@ -10,20 +10,11 @@ I recently earned my PhD at [University of Illinois Urbana-Champaign](https://il
 
 ## 🌋 Research Interests
 
-My research lies at the intersection of reinforcement learning for long-horizon tasks, recursive self-improvement, and continual learning. I aim to build language agents that learn through extended interaction, accumulate knowledge and skills as their environments evolve, and ultimately generate the experience and feedback that drive their own improvement. Realizing this vision requires moving beyond today’s LLM training, which often relies on static datasets, sparse rewards, and one-off training pipelines. These limitations make it difficult to assign credit across long trajectories, acquire new capabilities without forgetting existing ones, and sustain reliable, open-ended improvement. To address these challenges, my work and interests span three connected areas:
+I aim to build language agents that learn through extended interaction, adapt over time, and generate the experience and feedback that drive their own improvement. My work and interests span three connected areas:
 
-- **Reinforcement learning for long-horizon tasks**:
-    - Train LLMs to reason in hybrid discrete and continuous spaces ([HRPO](https://arxiv.org/abs/2505.18454))
-    - Teach agents to reason with search and other external tools ([Search-R1](https://arxiv.org/abs/2503.09516))
-    - Develop stable and efficient learning signals for long-horizon decision-making, with an emphasis on credit assignment
-- **Recursive self-improvement**:
-    - Close the loop between task generation and learning so that agents can create increasingly challenging curricula without human annotation ([Dr. Zero](https://arxiv.org/abs/2601.07055))
-    - Advance on-policy distillation and self-distillation to complement sparse environmental rewards with dense learning signals and bootstrap successive policy improvements
-    - Study how self-generated tasks, verifiable feedback, and persistent memory can enable reliable, open-ended improvement
-- **Continual learning**:
-    - Develop continual post-training methods that acquire new knowledge and behaviors while preserving existing capabilities
-    - Improve models' use of computation and evidence at test time through search, reasoning, and test-time scaling ([Inference Scaling](https://arxiv.org/abs/2410.04343))
-    - Adapt LLMs to emerging domains and tasks by learning from limited supervision & human preferences ([RAFTS](https://arxiv.org/abs/2406.09815), [RARG](https://arxiv.org/abs/2403.14952))
+- **Reinforcement learning for reasoning and long-horizon tasks**: Train LLMs to reason in hybrid discrete and continuous spaces ([HRPO](https://arxiv.org/abs/2505.18454)) and use search and other external tools ([Search-R1](https://arxiv.org/abs/2503.09516)). I am also interested in stable and efficient learning signals for long-horizon decision-making, particularly credit assignment.
+- **Recursive self-improvement**: Close the loop between task generation and learning without human annotation ([Dr. Zero](https://arxiv.org/abs/2601.07055)), and use on-policy distillation and self-distillation to support successive policy improvements ([SIPO](https://arxiv.org/abs/2609.36742)). I am interested in how self-generated tasks, verifiable feedback, and persistent memory can sustain reliable, open-ended improvement.
+- **Test-time scaling and adaptation**: Improve models' use of computation and evidence at test time ([Inference Scaling](https://arxiv.org/abs/2410.04343)), and adapt LLMs to new domains and tasks with limited supervision and human preferences ([RAFTS](https://arxiv.org/abs/2406.09815), [RARG](https://arxiv.org/abs/2403.14952)). My broader interests include continual post-training that acquires new capabilities while preserving existing ones.
 
 
 <!-- ## 📰 News
