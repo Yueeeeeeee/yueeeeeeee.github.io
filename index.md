@@ -113,6 +113,10 @@ My research lies at the intersection of reinforcement learning for long-horizon 
 **Zhenrui Yue**, Kartikeya Upasani, Xianjun Yang, Suyu Ge, Shaoliang Nie, Yuning Mao, Zhe Liu, Dong Wang \
 *COLM 2026* [[Paper](https://arxiv.org/abs/2601.07055)] [[Code](https://github.com/facebookresearch/drzero)]
 
+- **FASA: Frequency-aware Sparse Attention** \
+Yifei Wang, Yueqi Wang, **Zhenrui Yue**, Huimin Zeng, Yong Wang, Ismini Lourentzou, Zhengzhong Tu, Xiangxiang Chu, Julian McAuley \
+*ICLR 2026* [[Paper](https://arxiv.org/abs/2602.03152)] [[Code](https://github.com/wangyifei0047/FASA-ICLR2026)]
+
 - **Hybrid Latent Reasoning via Reinforcement Learning** \
 **Zhenrui Yue**, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang \
 *NeurIPS 2025* [[Paper](https://arxiv.org/abs/2505.18454)] [[Code](https://github.com/yueeeeeeee/HRPO)]
