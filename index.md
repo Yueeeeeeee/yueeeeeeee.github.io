@@ -54,7 +54,7 @@ My research lies at the intersection of reinforcement learning for long-horizon 
             Dec 2025 - Present<br/>
         </td>
         <td style="width: 30%; text-align: right; border: none;">
-            <img src="assets/img/gdm_logo.svg" width="80%" style="display: block; margin-left: auto; margin-right: auto;">
+            <img src="assets/img/gdm_logo.png" width="80%" style="display: block; margin-left: auto; margin-right: auto;">
         </td>
     </tr>
 </table>
@@ -86,7 +86,7 @@ My research lies at the intersection of reinforcement learning for long-horizon 
             May 2024 - Dec 2024<br/>
         </td>
         <td style="width: 30%; text-align: right; border: none;">
-            <img src="assets/img/gdm_logo.svg" width="80%" style="display: block; margin-left: auto; margin-right: auto;">
+            <img src="assets/img/gdm_logo.png" width="80%" style="display: block; margin-left: auto; margin-right: auto;">
         </td>
     </tr>
 </table>
