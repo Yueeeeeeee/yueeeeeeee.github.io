@@ -13,12 +13,12 @@ I recently earned my PhD at [University of Illinois Urbana-Champaign](https://il
 My research lies at the intersection of reinforcement learning for long-horizon tasks, recursive self-improvement, and continual learning. I aim to build language agents that learn through extended interaction, accumulate knowledge and skills as their environments evolve, and ultimately generate the experience and feedback that drive their own improvement. My work and interests span three connected areas:
 
 - **Reinforcement learning for long-horizon tasks**:
-    - Train LLMs to reason in hybrid discrete and continuous spaces ([HRPO](https://arxiv.org/abs/2505.18454))
+    - Efficiently consolidate RL experts into a unified model ([MRPD](https://arxiv.org/abs/2611.24059))
     - Teach agents to reason with search and other external tools ([Search-R1](https://arxiv.org/abs/2503.09516))
     - Develop stable and efficient learning signals for long-horizon decision-making, with an emphasis on credit assignment
 - **Recursive self-improvement**:
-    - Close the loop between task generation and learning so that agents can create curricula without human annotation ([Dr. Zero](https://arxiv.org/abs/2601.07055))
-    - Advance reinforcement learning and on-policy distillation to complement sparse environmental rewards with dense learning signals ([SIPO](https://arxiv.org/abs/2609.36742))
+    - Bridge autonomous task generation and learning so that agents can self-evolve without human annotation ([Dr. Zero](https://arxiv.org/abs/2601.07055))
+    - Advance reinforcement learning through latent reasoning and self-distilled token-level supervision ([HRPO](https://arxiv.org/abs/2505.18454), [SIPO](https://arxiv.org/abs/2609.36742))
     - Study how self-generated tasks, verifiable feedback, and persistent memory can enable reliable, open-ended improvement
 - **Continual learning**:
     - Develop continual post-training methods that acquire new knowledge and behaviors while preserving existing capabilities
@@ -109,11 +109,15 @@ My research lies at the intersection of reinforcement learning for long-horizon 
 
 ## 📚 Recent Publications
 
+- **Replay, Don't Resample: Off-Policy Consolidation of Long-Horizon RL Experts** \
+**Zhenrui Yue\***, Gongxiaohui Chen\*, Huimin Zeng, Honglei Zhuang, Jiashuo Sun, Zhen Han, Dong Wang \
+*arXiv 2026* [[Paper](https://arxiv.org/abs/2611.24059)] [[Code](https://github.com/Yueeeeeeee/MRPD)]
+
 - **Dr. Zero: Self-Evolving Search Agents without Training Data** \
 **Zhenrui Yue**, Kartikeya Upasani, Xianjun Yang, Suyu Ge, Shaoliang Nie, Yuning Mao, Zhe Liu, Dong Wang \
 *COLM 2026* [[Paper](https://arxiv.org/abs/2601.07055)] [[Code](https://github.com/facebookresearch/drzero)]
 
-- **FASA: Frequency-aware Sparse Attention** \
+- **FASA: Frequency-Aware Sparse Attention** \
 Yifei Wang, Yueqi Wang, **Zhenrui Yue**, Huimin Zeng, Yong Wang, Ismini Lourentzou, Zhengzhong Tu, Xiangxiang Chu, Julian McAuley \
 *ICLR 2026* [[Paper](https://arxiv.org/abs/2602.03152)] [[Code](https://github.com/wangyifei0047/FASA-ICLR2026)]
 
@@ -163,7 +167,7 @@ Bowen Jin, Hansi Zeng, **Zhenrui Yue**, Jinsung Yoon, Sercan Arik, Dong Wang, Ha
 
 &emsp;**SPC / AC**: ARR (ACL, EMNLP, NAACL, etc.).
 
-&emsp;**Reviewer**: AAAI, ARR, COLM, ICCV, ICLR, KDD, NeurIPS, TMLR, etc.
+&emsp;**Reviewer**: AAAI, ARR, COLM, ICCV, ICLR, ICML, KDD, NeurIPS, TMLR, etc.
 
 &emsp;**Teaching**: Discrete Math, Intro to Database, Machine Learning, Computer Networks.
 
