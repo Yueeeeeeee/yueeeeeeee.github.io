@@ -17,8 +17,8 @@ My research lies at the intersection of reinforcement learning for long-horizon 
     - Teach agents to reason with search and other external tools ([Search-R1](https://arxiv.org/abs/2503.09516))
     - Develop stable and efficient learning signals for long-horizon decision-making, with an emphasis on credit assignment
 - **Recursive self-improvement**:
-    - Bridge autonomous task generation and learning so that agents can self-evolve without human annotation ([Dr. Zero](https://arxiv.org/abs/2601.07055))
-    - Advance reinforcement learning through latent reasoning and self-distilled token-level supervision ([HRPO](https://arxiv.org/abs/2505.18454), [SIPO](https://arxiv.org/abs/2609.36742))
+    - Bridge autonomous task generation and learning so that agents self-evolve without human annotation ([Dr. Zero](https://arxiv.org/abs/2601.07055))
+    - Advance reinforcement learning through hybrid latent reasoning and self-distilled token-level supervision ([HRPO](https://arxiv.org/abs/2505.18454), [SIPO](https://arxiv.org/abs/2609.36742))
     - Study how self-generated tasks, verifiable feedback, and persistent memory can enable reliable, open-ended improvement
 - **Continual learning**:
     - Develop continual post-training methods that acquire new knowledge and behaviors while preserving existing capabilities
